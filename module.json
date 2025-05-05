@@ -1,0 +1,32 @@
+{
+  "id": "pfs-3-99-fate-in-the-future",
+  "title": "PFS 3-99 : Fate in the Future",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "adventure",
+      "label": "PFS 3-99: Fate in the Future",
+      "path": "packs/adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
