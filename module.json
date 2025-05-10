@@ -28,5 +28,6 @@
       "system": "pf2e",
       "flags": {}
     }
-  ]
+  ],
+  "esmodules": ["scripts/index.mjs"]
 }
