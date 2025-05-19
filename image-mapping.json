@@ -1,0 +1,754 @@
+{
+  "pf2e.pfs-season-3-bestiary": {
+    "ZzH4EqJtWIhaNWSv": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/animated-object-sword.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/animated-object-sword.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/animated-object-sword.webp"
+          }
+        }
+      }
+    },
+    "psFZ9UdpJR4rRpEy": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/kobold-warrior.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/kobold-warrior.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/kobold-warrior.webp"
+          }
+        }
+      }
+    },
+    "L1gzOT7o2xxJoqUD": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/amalgam.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/amalgam.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/amalgam.webp"
+          }
+        }
+      }
+    },
+    "i9cCVnI5OlMe8d2u": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/robot-battle-azlanti.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/robot-battle-azlanti.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/robot-battle-azlanti.webp"
+          }
+        }
+      }
+    },
+    "qPUP8Qtp7HXmXiBi": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/robot-battle-azlanti.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/robot-battle-azlanti.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/robot-battle-azlanti.webp"
+          }
+        }
+      }
+    },
+    "Lmo4SH5wpywZL1YS": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/robot-battle-azlanti.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/robot-battle-azlanti.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/robot-battle-azlanti.webp"
+          }
+        }
+      }
+    },
+    "vuxdXTrDMv5YQ1Fx": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/robot-battle-azlanti.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/robot-battle-azlanti.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/robot-battle-azlanti.webp"
+          }
+        }
+      }
+    },
+    "iibGqYRM92mGVV8h": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/cog.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/cog.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/cog.webp"
+          }
+        }
+      }
+    },
+    "CIjBUkWnth0CE30k": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/cog.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/cog.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/cog.webp"
+          }
+        }
+      }
+    },
+    "B57HMAtx8pj3kt8u": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/fipp-the-prophet.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/fipp-the-prophet.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/fipp-the-prophet.webp"
+          }
+        }
+      }
+    },
+    "POFH4BcrEF9wxwp2": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/arabuk-yearling.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/arabuk-yearling.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/arabuk-yearling.webp"
+          }
+        }
+      }
+    },
+    "Ce5z95Z1twvMCsw9": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/arabuk-yearling.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/arabuk-yearling.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/arabuk-yearling.webp"
+          }
+        }
+      }
+    },
+    "RTHM0lrmzvUskBMy": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/arabuk.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/arabuk.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/arabuk.webp"
+          }
+        }
+      }
+    },
+    "83lyaQloNlS16sJu": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/arabuk.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/arabuk.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/arabuk.webp"
+          }
+        }
+      }
+    },
+    "hYqXZ2glAj0mVfCx": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/temporal-echo.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/temporal-echo.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/temporal-echo.webp"
+          }
+        }
+      }
+    },
+    "oqxqAesRlacxYKiY": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/temporal-echo.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/temporal-echo.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/temporal-echo.webp"
+          }
+        }
+      }
+    },
+    "2jiOLCpHekITyQTQ": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/temporal-echo.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/temporal-echo.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/temporal-echo.webp"
+          }
+        }
+      }
+    },
+    "JmQiEhCnr9WcG6Dl": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/temporal-echo.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/temporal-echo.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/temporal-echo.webp"
+          }
+        }
+      }
+    },
+    "9FgyBdbHxwMYdGAt": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/pup-of-tindalos.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/pup-of-tindalos.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/pup-of-tindalos.webp"
+          }
+        }
+      }
+    },
+    "DEfeDmBh7lR7c9W8": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/animated-object-armor.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/animated-object-armor.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/animated-object-armor.webp"
+          }
+        }
+      }
+    },
+    "l1EWODWiDlDLQx0L": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/kobold-scout.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/kobold-scout.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/kobold-scout.webp"
+          }
+        }
+      }
+    },
+    "Tt9DtLxj1N2TBT9w": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/kobold-dragon-mage-green.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/kobold-dragon-mage-green.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/kobold-dragon-mage-green.webp"
+          }
+        }
+      }
+    },
+    "wLM38nmdIITxkr4k": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/hag-green.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/hag-green.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/hag-green.webp"
+          }
+        }
+      }
+    },
+    "iev4EOtchd0hp9sh": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/avor-stelek.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/avor-stelek.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/avor-stelek.webp"
+          }
+        }
+      }
+    },
+    "1OHuJmY24AnfJHpz": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/worm-frost.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/worm-frost.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/worm-frost.webp"
+          }
+        }
+      }
+    },
+    "8Sea3unOcDH6dWJI": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/worm-frost.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/worm-frost.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/worm-frost.webp"
+          }
+        }
+      }
+    },
+    "Q2a9EA1zQB8acuiF": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/shobhad-enforcer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/shobhad-enforcer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/shobhad-enforcer.webp"
+          }
+        }
+      }
+    },
+    "EB00f6ADElWInuix": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/shobhad-enforcer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/shobhad-enforcer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/shobhad-enforcer.webp"
+          }
+        }
+      }
+    },
+    "1PE6CVTY6BBH9k7t": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/dinosaur-hadrosaurid.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/dinosaur-hadrosaurid.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/dinosaur-hadrosaurid.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.pathfinder-bestiary-1": {
+    "LHHgGSs0ELCR4CYK": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/ghoul.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/ghoul.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/ghoul.webp"
+          }
+        }
+      }
+    },
+    "VC7rtYR4hLxwg7WZ": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/ghoul-ghast.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/ghoul-ghast.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/ghoul-ghast.webp"
+          }
+        }
+      }
+    },
+    "Jgh0WGVetNXi5jlM": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/elemental-water-quatoid.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/elemental-water-quatoid.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/elemental-water-quatoid.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.pathfinder-bestiary-2": {
+    "6YOyTHRGqkYl2Prb": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/wolverine.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/wolverine.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/wolverine.webp"
+          }
+        }
+      }
+    },
+    "6ic6oNCpWjkVAsIN": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/elemental-fire-ember-fox.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/elemental-fire-ember-fox.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/elemental-fire-ember-fox.webp"
+          }
+        }
+      }
+    },
+    "Kr5LtF0bqZJAC2Wn": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/spider-ogre.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/spider-ogre.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/spider-ogre.webp"
+          }
+        }
+      }
+    },
+    "y2LqIPBHv2dA0pjI": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/necrophidius.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/necrophidius.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/necrophidius.webp"
+          }
+        }
+      }
+    },
+    "7UBCht1tQfeba2Ih": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/golem-wood.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/golem-wood.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/golem-wood.webp"
+          }
+        }
+      }
+    },
+    "ABMn623izSLHA0sx": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/golem-glass.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/golem-glass.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/golem-glass.webp"
+          }
+        }
+      }
+    },
+    "JgePINrFINmlsvn3": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/hound-of-tindalos.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/hound-of-tindalos.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/hound-of-tindalos.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.pathfinder-bestiary-3": {
+    "9KZRWATLOGP7QGyM": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/elemental-wisp-fire.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/elemental-wisp-fire.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/elemental-wisp-fire.webp"
+          }
+        }
+      }
+    },
+    "9HkUdRKoprwo27VN": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/clockwork-soldier.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/clockwork-soldier.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/clockwork-soldier.webp"
+          }
+        }
+      }
+    },
+    "CYzFHz8ZbU270z9N": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/mokele-mbembe.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/mokele-mbembe.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/mokele-mbembe.webp"
+          }
+        }
+      }
+    }
+  },
+  "pf2e.pathfinder-monster-core": {
+    "RqX0vfUjlycKjGyp": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/changeling-exile.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/changeling-exile.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/changeling-exile.webp"
+          }
+        }
+      }
+    },
+    "WBPEvEqIGvxeQKlp": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/eagle-giant.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/eagle-giant.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/eagle-giant.webp"
+          }
+        }
+      }
+    },
+    "ZW8ARUrNdc3zewLM": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/dinosaur-velociraptor.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/dinosaur-velociraptor.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/dinosaur-velociraptor.webp"
+          }
+        }
+      }
+    },
+    "NRBgcu0LkXXp8mtp": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/centipede-giant.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/centipede-giant.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/centipede-giant.webp"
+          }
+        }
+      }
+    },
+    "UTnrcGoCIXR95zKi": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/centipede-whiptail-giant.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/centipede-whiptail-giant.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/centipede-whiptail-giant.webp"
+          }
+        }
+      }
+    },
+    "VCYF0NAfPKwTHkK1": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/fleshwarp-grothlut.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/fleshwarp-grothlut.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/fleshwarp-grothlut.webp"
+          }
+        }
+      }
+    },
+    "A4VgQIHsqJKssQOM": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/spider-hunting.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/spider-hunting.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/spider-hunting.webp"
+          }
+        }
+      }
+    },
+    "AZIG0COCaDBronJa": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/bear-cave.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/bear-cave.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/bear-cave.webp"
+          }
+        }
+      }
+    },
+    "1AZoRkLec47xrTqY": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/elemental-water-living-waterfall.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/elemental-water-living-waterfall.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/elemental-water-living-waterfall.webp"
+          }
+        }
+      }
+    },
+    "dUI8N2AXDGcf3qRD": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/dinosaur-pachycephalosaurus.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/dinosaur-pachycephalosaurus.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/dinosaur-pachycephalosaurus.webp"
+          }
+        }
+      }
+    },
+    "qtJ36jlcRQw5sBnr": {
+      "actor": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/portraits/dinosaur-stegosaurus.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/tokens/dinosaur-stegosaurus.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pfs-3-99-fate-in-the-future/assets/NPCAssets/subjects/dinosaur-stegosaurus.webp"
+          }
+        }
+      }
+    }
+  }
+}

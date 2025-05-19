@@ -1,0 +1,1942 @@
+{
+  "encounters": [
+    {
+      "name": "A1 - Sanctum Guardians (1-4)",
+      "scene": "8RPAHbw2VnS5k7NL",
+      "actors": { "animated-blade-pfs-3-99": "yYrEEecJZgNds9hr", "animated-full-plate-pfs-3-99": "4GGVj4LqsaX6NC0t" },
+      "pcStart": { "x": 1000, "y": 1400 },
+      "tokenSet": {
+        "animated-blade-pfs-3-99": [
+          { "x": 800, "y": 1800 },
+          { "x": 1000, "y": 1800 },
+          { "x": 1100, "y": 1800 },
+          { "x": 1000, "y": 1900 },
+          { "x": 1100, "y": 1900 },
+          { "x": 1300, "y": 1900 }
+        ],
+        "animated-full-plate-pfs-3-99": [
+          { "x": 1000, "y": 1800 },
+          { "x": 1100, "y": 1800 },
+          { "x": 800, "y": 1800 },
+          { "x": 1000, "y": 1900 }
+        ]
+      },
+      "scaling": [
+        {
+          "animated-blade-pfs-3-99": { "amount": 3 },
+          "predicate": { "cp": [8, 9, 10, 11] }
+        },
+        {
+          "animated-blade-pfs-3-99": { "amount": 4 },
+          "predicate": { "cp": [12, 13] }
+        },
+        {
+          "animated-blade-pfs-3-99": { "amount": 5 },
+          "predicate": { "cp": [14, 15] }
+        },
+        {
+          "animated-blade-pfs-3-99": { "amount": 6 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6] }
+        },
+        {
+          "animated-full-plate-pfs-3-99": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4] }
+        },
+        {
+          "animated-full-plate-pfs-3-99": { "amount": 2 },
+          "predicate": { "cp": [19, 20, 21, 22] }
+        },
+        {
+          "animated-full-plate-pfs-3-99": { "amount": 3 },
+          "predicate": { "cp": [23, 24, 25, 26, 27, 28, 29, 30, 31, 32] }
+        },
+        {
+          "animated-full-plate-pfs-3-99": { "amount": 4 },
+          "predicate": { "cp": [33, 34, 35] }
+        }
+      ]
+    },
+    {
+      "name": "A1 - Sanctum Guardians (5-8)",
+      "scene": "xyUcn9lbaPrT8Hx6",
+      "actors": { "necrophidius": "ztTLVoPdwgK9WM1p", "clockwork-soldier": "OzaVs56zsFrOBSik" },
+      "pcStart": { "x": 2100, "y": 1800 },
+      "tokenSet": {
+        "necrophidius": [
+          { "x": 1900, "y": 2000 },
+          { "x": 1500, "y": 1900 },
+          { "x": 1900, "y": 1500 },
+          { "x": 1400, "y": 1900 },
+          { "x": 1900, "y": 1400 },
+          { "x": 1800, "y": 1900 }
+        ],
+        "clockwork-soldier": [
+          { "x": 1500, "y": 1900 },
+          { "x": 1900, "y": 1500 },
+          { "x": 1400, "y": 1900 },
+          { "x": 1900, "y": 1400 }
+        ]
+      },
+      "scaling": [
+        {
+          "necrophidius": { "amount": 3 },
+          "predicate": { "cp": [8, 9, 10, 11] }
+        },
+        {
+          "necrophidius": { "amount": 4 },
+          "predicate": { "cp": [12, 13] }
+        },
+        {
+          "necrophidius": { "amount": 5 },
+          "predicate": { "cp": [14, 15] }
+        },
+        {
+          "necrophidius": { "amount": 6 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6] }
+        },
+        {
+          "clockwork-soldier": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4] }
+        },
+        {
+          "clockwork-soldier": { "amount": 2 },
+          "predicate": { "cp": [19, 20, 21, 22] }
+        },
+        {
+          "clockwork-soldier": { "amount": 3 },
+          "predicate": { "cp": [23, 24, 25, 26, 27, 28, 29, 30, 31, 32] }
+        },
+        {
+          "clockwork-soldier": { "amount": 4 },
+          "predicate": { "cp": [33, 34, 35] }
+        }
+      ]
+    },
+    {
+      "name": "B1 - Hallway Maze (5-8)",
+      "scene": "90b9yQUZ8Pcv86TG",
+      "actors": {
+        "topaz": "ZktucIJTp4hI3GF3",
+        "bloodletting-scythe-blade": "R6PkEvG5b22tWT3F",
+        "yellow-mold": "E96PaJqtcCW7AiHl"
+      },
+      "pcStart": { "x": 1800, "y": 1400 },
+      "tokenSet": {
+        "topaz": [{ "x": 2625, "y": 1525 }],
+        "bloodletting-scythe-blade": [{ "x": 2600, "y": 1400 }],
+        "yellow-mold": [{ "x": 2600, "y": 1400 }]
+      },
+      "scaling": [
+        {
+          "topaz": {},
+          "bloodletting-scythe-blade": {},
+          "predicate": { "cp": [8, 9, 10, 11, 12, 13, 14, 15] }
+        },
+        {
+          "topaz": {},
+          "bloodletting-scythe-blade": {},
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6] }
+        },
+        {
+          "topaz": {},
+          "yellow-mold": {},
+          "predicate": { "cp": [16, 17, 18], "pcs": [4] }
+        },
+        {
+          "topaz": {},
+          "yellow-mold": {},
+          "predicate": { "cp": [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35] }
+        }
+      ]
+    },
+    {
+      "name": "B1 - Pathfinder Found (1-4)",
+      "scene": "4FgNk6Lefw2v6nU1",
+      "actors": {
+        "dalver": "tms4SYP1XZSrxBlq",
+        "poisoned-dart-trap-1-2": "wiJhXW4o67N4Sx8U",
+        "poisoned-dart-trap-3-4": "p2jotW7kMSQRbRfx"
+      },
+      "pcStart": { "x": 1100, "y": 3100 },
+      "tokenSet": {
+        "dalver": [{ "x": 1200, "y": 2500 }],
+        "poisoned-dart-trap-1-2": [
+          { "x": 1100, "y": 2800 },
+          { "x": 1100, "y": 2600 },
+          { "x": 1100, "y": 2400 },
+          { "x": 1100, "y": 2200 }
+        ],
+        "poisoned-dart-trap-3-4": [
+          { "x": 1300, "y": 2200 },
+          { "x": 1300, "y": 2400 },
+          { "x": 1300, "y": 2600 },
+          { "x": 1300, "y": 2800 }
+        ]
+      },
+      "scaling": [
+        {
+          "dalver": {},
+          "poisoned-dart-trap-1-2": {},
+          "predicate": { "cp": [8, 9, 10, 11, 12, 13, 14, 15] }
+        },
+        {
+          "dalver": {},
+          "poisoned-dart-trap-1-2": {},
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6] }
+        },
+        {
+          "dalver": {},
+          "poisoned-dart-trap-3-4": {},
+          "predicate": { "cp": [16, 17, 18], "pcs": [4] }
+        },
+        {
+          "dalver": {},
+          "poisoned-dart-trap-3-4": {},
+          "predicate": { "cp": [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35] }
+        }
+      ]
+    },
+    {
+      "name": "B2 - Pathfinder Found (1-4)",
+      "scene": "4FgNk6Lefw2v6nU1",
+      "actors": { "fire-wisp": "6aLYb2y1zwfhdhh6", "ember-fox": "NfN3xAqj68WG1nnz" },
+      "tokenSet": {
+        "fire-wisp": [
+          { "x": 1050, "y": 1400 },
+          { "x": 1100, "y": 1400 },
+          { "x": 1050, "y": 1350 },
+          { "x": 1100, "y": 1350 }
+        ],
+        "ember-fox": [
+          { "x": 900, "y": 1300 },
+          { "x": 1100, "y": 1300 },
+          { "x": 1200, "y": 1300 }
+        ]
+      },
+      "scaling": [
+        { "fire-wisp": { "amount": 2 }, "predicate": { "cp": [8, 9, 10, 11] } },
+        { "fire-wisp": { "amount": 3 }, "predicate": { "cp": [12, 13, 14, 15] } },
+        { "fire-wisp": { "amount": 4 }, "predicate": { "cp": [16, 17, 18], "pcs": [5, 6] } },
+        {
+          "fire-wisp": { "amount": 2 },
+          "ember-fox": { "amount": 1 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4] }
+        },
+        { "fire-wisp": { "amount": 3 }, "ember-fox": { "amount": 1 }, "predicate": { "cp": [19, 20, 21, 22] } },
+        { "fire-wisp": { "amount": 2 }, "ember-fox": { "amount": 2 }, "predicate": { "cp": [23, 24, 25, 26, 27] } },
+        { "fire-wisp": { "amount": 3 }, "ember-fox": { "amount": 2 }, "predicate": { "cp": [28, 29, 30, 31, 32] } },
+        { "fire-wisp": { "amount": 2 }, "ember-fox": { "amount": 3 }, "predicate": { "cp": [33, 34, 35] } }
+      ]
+    },
+    {
+      "name": "B3 - Pathfinder Found (1-4)",
+      "scene": "4FgNk6Lefw2v6nU1",
+      "actors": { "firespark-trap-1-2": "V6nT42xt6Cf1510X", "firespark-trap-3-4": "MymGoKCMIPShNEbZ" },
+      "tokenSet": {
+        "firespark-trap-1-2": [{ "x": 1100, "y": 1000 }],
+        "firespark-trap-3-4": [{ "x": 1100, "y": 1000 }]
+      },
+      "scaling": [
+        {
+          "firespark-trap-1-2": { "amount": 1 },
+          "predicate": { "cp": [8, 9, 10, 11, 12, 13, 14, 15] }
+        },
+        {
+          "firespark-trap-1-2": { "amount": 1 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6] }
+        },
+        {
+          "firespark-trap-3-4": { "amount": 1 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4] }
+        },
+        {
+          "firespark-trap-3-4": { "amount": 1 },
+          "predicate": { "cp": [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35] }
+        }
+      ]
+    },
+    {
+      "name": "B2 - Slumbering Beast (5-8)",
+      "scene": "nUhlLpc4msWHyD7R",
+      "actors": { "cave-bear": "BZwAQtJlzlKepCdt" },
+      "pcStart": { "x": 2700, "y": 400 },
+      "tokenSet": {
+        "cave-bear": [
+          { "x": 2000, "y": 800 },
+          { "x": 2000, "y": 600 },
+          { "x": 2000, "y": 400 },
+          { "x": 1800, "y": 800 }
+        ]
+      },
+      "scaling": [
+        { "cave-bear": { "amount": 1 }, "predicate": { "cp": [8, 9] } },
+        { "cave-bear": { "amount": 1, "adjustAll": { "max": 20 } }, "predicate": { "cp": [10, 11] } },
+        { "cave-bear": { "amount": 1, "adjustAll": { "adjustment": "elite" } }, "predicate": { "cp": [12, 13] } },
+        {
+          "predicate": { "cp": [14, 15] },
+          "cave-bear": { "amount": 1, "adjustAll": { "adjustment": "elite", "conditions": ["quickened"] } }
+        },
+        { "cave-bear": { "amount": 2 }, "predicate": { "cp": [16, 17, 18] } },
+        { "cave-bear": { "amount": 2, "adjustAll": { "max": 20 } }, "predicate": { "cp": [19, 20, 21, 22] } },
+        { "cave-bear": { "amount": 3 }, "predicate": { "cp": [23, 24, 25, 26, 27] } },
+        { "cave-bear": { "amount": 3, "adjustAll": { "max": 20 } }, "predicate": { "cp": [28, 29, 30, 31, 32] } },
+        { "cave-bear": { "amount": 4 }, "predicate": { "cp": [33, 34, 35] } }
+      ]
+    },
+    {
+      "name": "B3 - Trapped! (5-8)",
+      "scene": "gbuZuPZE4fri23JW",
+      "actors": {
+        "gloma": "6r5crAGb3sq8Tv8E",
+        "flensing-trap-5-6": "pU1BZXgxB1o1qWO0",
+        "flensing-trap-7-8": "7X55j04iqPa2cbtZ"
+      },
+      "pcStart": { "x": 1500, "y": 800 },
+      "tokenSet": {
+        "gloma": [{ "x": 1000, "y": 1100 }],
+        "flensing-trap-5-6": [{ "x": 1100, "y": 1000 }],
+        "flensing-trap-7-8": [{ "x": 1100, "y": 1000 }]
+      },
+      "scaling": [
+        {
+          "gloma": { "amount": 1 },
+          "flensing-trap-5-6": { "amount": 1 },
+          "predicate": { "cp": [8, 9, 10, 11, 12, 13, 14, 15] }
+        },
+        {
+          "gloma": { "amount": 1 },
+          "flensing-trap-5-6": { "amount": 1 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6] }
+        },
+        {
+          "gloma": { "amount": 1 },
+          "flensing-trap-7-8": { "amount": 1 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4] }
+        },
+        {
+          "gloma": { "amount": 1 },
+          "flensing-trap-7-8": { "amount": 1 },
+          "predicate": { "cp": [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35] }
+        }
+      ]
+    },
+    {
+      "name": "C - Temporal Pools (1-4)",
+      "scene": "NWH9ChsM3ISQ1Dqe",
+      "actors": {
+        "kobold-warrior-pfs-3-99": "Anoq4eYs2HxCWANj",
+        "junk-launcher": "Jgw1U2hVVebXie6R",
+        "rock-launcher": "ypIuqjyWDZttNp2Q",
+        "kobold-dragon-mage-pfs-3-99": "1hnahvU13xioJUNf",
+        "kobold-scout-pfs-3-99": "CJHl7lqoBotKohdy"
+      },
+      "pcStart": { "x": 2500, "y": 1000 },
+      "tokenSet": {
+        "kobold-warrior-pfs-3-99": [
+          { "x": 2000, "y": 400 },
+          { "x": 2000, "y": 500 },
+          { "x": 2000, "y": 600 },
+          { "x": 2000, "y": 700 },
+          { "x": 1900, "y": 400 },
+          { "x": 2100, "y": 400 }
+        ],
+        "junk-launcher": [
+          { "x": 2500, "y": 400 },
+          { "x": 1700, "y": 800 }
+        ],
+        "rock-launcher": [
+          { "x": 2500, "y": 400 },
+          { "x": 1700, "y": 800 }
+        ],
+        "kobold-dragon-mage-pfs-3-99": [
+          { "x": 1900, "y": 700 },
+          { "x": 2000, "y": 400 }
+        ],
+        "kobold-scout-pfs-3-99": [
+          { "x": 2100, "y": 700 },
+          { "x": 2200, "y": 700 },
+          { "x": 2000, "y": 500 }
+        ]
+      },
+      "scaling": [
+        {
+          "kobold-warrior-pfs-3-99": { "amount": 3 },
+          "junk-launcher": { "amount": 2 },
+          "predicate": { "cp": [8, 9] }
+        },
+        {
+          "kobold-warrior-pfs-3-99": { "amount": 3, "adjustAll": { "max": 5 } },
+          "junk-launcher": { "amount": 2 },
+          "predicate": { "cp": [10, 11] }
+        },
+        {
+          "kobold-warrior-pfs-3-99": { "amount": 4 },
+          "junk-launcher": { "amount": 2 },
+          "predicate": { "cp": [12, 13] }
+        },
+        {
+          "kobold-warrior-pfs-3-99": { "amount": 5 },
+          "junk-launcher": { "amount": 2 },
+          "predicate": { "cp": [14, 15] }
+        },
+        {
+          "kobold-warrior-pfs-3-99": { "amount": 6 },
+          "junk-launcher": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6] }
+        },
+        {
+          "kobold-warrior-pfs-3-99": { "amount": 3 },
+          "rock-launcher": { "amount": 2 },
+          "kobold-dragon-mage-pfs-3-99": { "amount": 1 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4] }
+        },
+        {
+          "kobold-warrior-pfs-3-99": { "amount": 4 },
+          "rock-launcher": { "amount": 2 },
+          "kobold-dragon-mage-pfs-3-99": { "amount": 1 },
+          "predicate": { "cp": [19, 20, 21, 22] }
+        },
+        {
+          "kobold-warrior-pfs-3-99": { "amount": 4 },
+          "rock-launcher": { "amount": 2 },
+          "kobold-dragon-mage-pfs-3-99": { "amount": 1 },
+          "kobold-scout-pfs-3-99": { "amount": 1 },
+          "predicate": { "cp": [23, 24, 25, 26, 27] }
+        },
+        {
+          "kobold-warrior-pfs-3-99": { "amount": 3 },
+          "rock-launcher": { "amount": 2 },
+          "kobold-dragon-mage-pfs-3-99": { "amount": 1 },
+          "kobold-scout-pfs-3-99": { "amount": 2 },
+          "predicate": { "cp": [28, 29, 30, 31, 32] }
+        },
+        {
+          "rock-launcher": { "amount": 2 },
+          "kobold-dragon-mage-pfs-3-99": { "amount": 2 },
+          "kobold-scout-pfs-3-99": { "amount": 3 },
+          "predicate": { "cp": [33, 34, 35] }
+        }
+      ]
+    },
+    {
+      "name": "C - Time Travel (5-8)",
+      "scene": "qHF447LR7sEKUTuq",
+      "actors": {
+        "uby": "x8TSjTmWrR8UQyuQ",
+        "reckless-akitonian-scientist": "UaQiqjEwOxhNweAN",
+        "reckless-akitonian-scientist-1": "H8WnVU662AWYNzSQ"
+      },
+      "pcStart": { "x": 800, "y": 3200 },
+      "tokenSet": {
+        "uby": [{ "x": 1800, "y": 2250 }],
+        "reckless-akitonian-scientist": [
+          { "x": 1800, "y": 1200 },
+          { "x": 2600, "y": 1000 },
+          { "x": 1700, "y": 1200 },
+          { "x": 2500, "y": 1000 }
+        ]
+      },
+      "scaling": [
+        {
+          "uby": { "amount": 1 },
+          "reckless-akitonian-scientist": { "amount": 1 },
+          "predicate": { "cp": [8, 9] }
+        },
+        {
+          "uby": { "amount": 1 },
+          "reckless-akitonian-scientist": { "amount": 1, "adjustAll": { "max": 15 } },
+          "predicate": { "cp": [10, 11] }
+        },
+        {
+          "uby": { "amount": 1 },
+          "reckless-akitonian-scientist": { "amount": 1, "adjustAll": { "conditions": ["quickened"] } },
+          "predicate": { "cp": [12, 13] }
+        },
+        {
+          "uby": { "amount": 1 },
+          "reckless-akitonian-scientist": { "amount": 1, "adjustAll": { "max": 15, "conditions": ["quickened"] } },
+          "predicate": { "cp": [14, 15] }
+        },
+        {
+          "uby": { "amount": 1 },
+          "reckless-akitonian-scientist": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18] }
+        },
+        {
+          "uby": { "amount": 1 },
+          "reckless-akitonian-scientist": { "amount": 2, "adjustAll": { "max": 20 } },
+          "predicate": { "cp": [19, 20, 21, 22] }
+        },
+        {
+          "uby": { "amount": 1 },
+          "reckless-akitonian-scientist": { "amount": 3 },
+          "predicate": { "cp": [23, 24, 25, 26, 27] }
+        },
+        {
+          "uby": { "amount": 1 },
+          "reckless-akitonian-scientist": { "amount": 3, "adjustAll": { "max": 20 } },
+          "predicate": { "cp": [28, 29, 30, 31, 32] }
+        },
+        {
+          "uby": { "amount": 1 },
+          "reckless-akitonian-scientist": { "amount": 4 },
+          "predicate": { "cp": [33, 34, 35] }
+        }
+      ]
+    },
+    {
+      "name": "D - Library (PCs)",
+      "scene": "h4oTb47FCW9Hk0aO",
+      "actors": {},
+      "pcStart": { "x": 1000, "y": 900 },
+      "tokenSet": {},
+      "scaling": [{ "predicate": {} }]
+    },
+    {
+      "name": "D - Library (1-4)",
+      "scene": "h4oTb47FCW9Hk0aO",
+      "actors": { "wolverine": "DlBCqq5V5a1aQg1G" },
+      "tokenSet": {
+        "wolverine": [
+          { "x": 1300, "y": 1500 },
+          { "x": 1200, "y": 1600 },
+          { "x": 1300, "y": 1600 }
+        ]
+      },
+      "scaling": [
+        { "wolverine": { "amount": 1 }, "predicate": { "cp": [8, 9], "tier": "1-4" } },
+        { "wolverine": { "amount": 1, "adjustAll": { "max": 10 } }, "predicate": { "cp": [10, 11], "tier": "1-4" } },
+        {
+          "wolverine": { "amount": 1, "adjustAll": { "conditions": ["quickened"] } },
+          "predicate": { "cp": [12, 13], "tier": "1-4" }
+        },
+        {
+          "wolverine": { "amount": 1, "adjustAll": { "max": 10, "conditions": ["quickened"] } },
+          "predicate": { "cp": [14, 15], "tier": "1-4" }
+        },
+        { "wolverine": { "amount": 2 }, "predicate": { "cp": [16, 17, 18], "tier": "1-4" } },
+        {
+          "wolverine": { "amount": 2, "adjustAll": { "max": 10 } },
+          "predicate": { "cp": [19, 20, 21, 22], "tier": "1-4" }
+        },
+        { "wolverine": { "amount": 3 }, "predicate": { "cp": [23, 24, 25, 26, 27], "tier": "1-4" } },
+        {
+          "wolverine": { "amount": 3, "adjustAll": { "max": 10 } },
+          "predicate": { "cp": [28, 29, 30, 31, 32], "tier": "1-4" }
+        },
+        {
+          "wolverine": { "amount": 3, "adjustAll": { "conditions": ["quickened"] } },
+          "predicate": { "cp": [33, 34, 35], "tier": "1-4" }
+        }
+      ]
+    },
+    {
+      "name": "D - Library (5-8)",
+      "scene": "h4oTb47FCW9Hk0aO",
+      "actors": { "wood-golem": "gd7n07aeGzqVjPe6", "glass-golem": "y9Apx6Xpwuu1jjls" },
+      "tokenSet": {
+        "wood-golem": [
+          { "x": 2100, "y": 2400 },
+          { "x": 1900, "y": 2700 }
+        ],
+        "glass-golem": [
+          { "x": 2000, "y": 2400 },
+          { "x": 1900, "y": 2700 }
+        ]
+      },
+      "scaling": [
+        {
+          "wood-golem": { "amount": 1 },
+          "predicate": { "cp": [8, 9], "tier": "5-8" }
+        },
+        {
+          "wood-golem": { "amount": 1, "adjustAll": { "max": 20 } },
+          "predicate": { "cp": [10, 11], "tier": "5-8" }
+        },
+        {
+          "wood-golem": { "amount": 1, "adjustAll": { "adjustment": "elite" } },
+          "predicate": { "cp": [12, 13], "tier": "5-8" }
+        },
+        {
+          "wood-golem": { "amount": 1, "adjustAll": { "adjustment": "elite" } },
+          "predicate": { "cp": [14, 15], "tier": "5-8" }
+        },
+        {
+          "wood-golem": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6], "tier": "5-8" }
+        },
+        {
+          "glass-golem": { "amount": 1 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4], "tier": "5-8" }
+        },
+        {
+          "glass-golem": { "amount": 1, "adjustAll": { "max": 20 } },
+          "predicate": { "cp": [19, 20, 21, 22], "tier": "5-8" }
+        },
+        {
+          "glass-golem": { "amount": 1, "adjustAll": { "adjustment": "elite" } },
+          "predicate": { "cp": [23, 24, 25, 26, 27], "tier": "5-8" }
+        },
+        {
+          "glass-golem": { "amount": 1, "adjustAll": { "adjustment": "elite" } },
+          "predicate": { "cp": [28, 29, 30, 31, 32], "tier": "5-8" }
+        },
+        {
+          "glass-golem": { "amount": 2 },
+          "predicate": { "cp": [33, 34, 35], "tier": "5-8" }
+        }
+      ]
+    },
+    {
+      "name": "E - Ascension (1-4)",
+      "scene": "mqhTFd3tlQ38Hd0Q",
+      "actors": { "timewarped-amalgam": "2uX91w0Q5IhDo5jK", "grothlut": "vhUlLYg9Dk6tkOsL" },
+      "pcStart": { "x": 1800, "y": 1000 },
+      "tokenSet": {
+        "timewarped-amalgam": [
+          { "x": 1800, "y": 700 },
+          { "x": 2000, "y": 700 },
+          { "x": 1600, "y": 600 },
+          { "x": 2200, "y": 600 }
+        ],
+        "grothlut": [
+          { "x": 1800, "y": 700 },
+          { "x": 2000, "y": 700 },
+          { "x": 1600, "y": 600 },
+          { "x": 2200, "y": 600 }
+        ]
+      },
+      "scaling": [
+        {
+          "timewarped-amalgam": { "amount": 2 },
+          "predicate": { "cp": [8, 9] }
+        },
+        {
+          "timewarped-amalgam": { "amount": 2, "adjustAll": { "max": 10 } },
+          "predicate": { "cp": [10, 11] }
+        },
+        {
+          "timewarped-amalgam": { "amount": 3 },
+          "predicate": { "cp": [12, 13] }
+        },
+        {
+          "timewarped-amalgam": { "amount": 3, "adjustAll": { "max": 10 } },
+          "predicate": { "cp": [14, 15] }
+        },
+        {
+          "timewarped-amalgam": { "amount": 4 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6] }
+        },
+        {
+          "grothlut": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4] }
+        },
+        {
+          "grothlut": { "amount": 2, "adjustAll": { "max": 15 } },
+          "predicate": { "cp": [19, 20, 21, 22] }
+        },
+        {
+          "grothlut": { "amount": 3 },
+          "predicate": { "cp": [23, 24, 25, 26, 27] }
+        },
+        {
+          "grothlut": { "amount": 3, "adjustAll": { "max": 15 } },
+          "predicate": { "cp": [28, 29, 30, 31, 32] }
+        },
+        {
+          "grothlut": { "amount": 4 },
+          "predicate": { "cp": [33, 34, 35] }
+        }
+      ]
+    },
+    {
+      "name": "E - Ascension (5-8)",
+      "scene": "1ad82EyudXfBkzDf",
+      "actors": { "quatoid": "1vGIKsBcIDFJikbd", "living-waterfall": "fi8hLmSByy8hNn03" },
+      "pcStart": { "x": 700, "y": 1200 },
+      "tokenSet": {
+        "quatoid": [
+          { "x": 1100, "y": 2000 },
+          { "x": 1000, "y": 2000 },
+          { "x": 1100, "y": 1900 },
+          { "x": 1000, "y": 1900 }
+        ],
+        "living-waterfall": [{ "x": 1000, "y": 1800 }]
+      },
+      "scaling": [
+        {
+          "quatoid": { "amount": 1 },
+          "predicate": { "cp": [8, 9] }
+        },
+        {
+          "quatoid": { "amount": 1, "adjustAll": { "max": 20 } },
+          "predicate": { "cp": [10, 11] }
+        },
+        {
+          "quatoid": { "amount": 1 },
+          "living-waterfall": { "amount": 1 },
+          "predicate": { "cp": [12, 13] }
+        },
+        {
+          "quatoid": { "amount": 1, "adjustAll": { "max": 20 } },
+          "living-waterfall": { "amount": 1, "adjustAll": { "max": 20 } },
+          "predicate": { "cp": [14, 15] }
+        },
+        {
+          "quatoid": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18] }
+        },
+        {
+          "quatoid": { "amount": 2, "adjustAll": { "max": 20 } },
+          "predicate": { "cp": [19, 20, 21, 22] }
+        },
+        {
+          "quatoid": { "amount": 3 },
+          "predicate": { "cp": [23, 24, 25, 26, 27] }
+        },
+        {
+          "quatoid": { "amount": 3, "adjustAll": { "max": 20 } },
+          "predicate": { "cp": [28, 29, 30, 31, 32] }
+        },
+        {
+          "quatoid": { "amount": 4 },
+          "predicate": { "cp": [33, 34, 35] }
+        }
+      ]
+    },
+    {
+      "name": "F - Living Quarters PCs",
+      "scene": "Bn2wW6CDN3gWFTp2",
+      "actors": {},
+      "pcStart": { "x": 700, "y": 3300 },
+      "tokenSet": {},
+      "scaling": [{ "predicate": {} }]
+    },
+    {
+      "name": "F - Living Quarters (1-4)",
+      "scene": "Bn2wW6CDN3gWFTp2",
+      "actors": { "ghast": "2fpWB4EiSpAqn2eu", "ghoul": "imNQXuQvFZs6g0cG", "ghoul-1": "4sDhYrTp699WFGA5" },
+      "tokenSet": {
+        "ghast": [
+          { "x": 2300, "y": 2100 },
+          { "x": 1900, "y": 1300 },
+          { "x": 2400, "y": 2100 },
+          { "x": 2000, "y": 1300 }
+        ],
+        "ghoul": [
+          { "x": 2300, "y": 2100 },
+          { "x": 1900, "y": 1300 }
+        ],
+        "ghoul-1": [
+          { "x": 1900, "y": 1200 },
+          { "x": 2400, "y": 2100 },
+          { "x": 2000, "y": 1300 }
+        ]
+      },
+      "scaling": [
+        {
+          "ghoul": { "amount": 2 },
+          "predicate": { "cp": [8, 9, 10, 11], "tier": "1-4" }
+        },
+        {
+          "ghoul": { "amount": 2 },
+          "ghoul-1": { "amount": 1 },
+          "predicate": { "cp": [12, 13, 14, 15], "tier": "1-4" }
+        },
+        {
+          "ghoul": { "amount": 2 },
+          "ghoul-1": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6], "tier": "1-4" }
+        },
+        {
+          "ghast": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4], "tier": "1-4" }
+        },
+        {
+          "ghast": { "amount": 2 },
+          "ghoul-1": { "amount": 1 },
+          "predicate": { "cp": [19, 20, 21, 22], "tier": "1-4" }
+        },
+        {
+          "ghast": { "amount": 2 },
+          "ghoul-1": { "amount": 2 },
+          "predicate": { "cp": [23, 24, 25, 26, 27], "tier": "1-4" }
+        },
+        {
+          "ghast": { "amount": 4 },
+          "predicate": { "cp": [28, 29, 30, 31, 32], "tier": "1-4" }
+        },
+        {
+          "ghast": { "amount": 4 },
+          "ghoul-1": { "amount": 1 },
+          "predicate": { "cp": [33, 34, 35], "tier": "1-4" }
+        }
+      ]
+    },
+    {
+      "name": "F - Living Quarters (5-8)",
+      "scene": "Bn2wW6CDN3gWFTp2",
+      "actors": {
+        "arabuk": "WYrebYQfVmvgoyqe",
+        "mature-arabuk": "8CIPKRfFQ3e5nAhu",
+        "arabuk-yearling": "p5PaFQol381Ajuoz"
+      },
+      "tokenSet": {
+        "arabuk": [
+          { "x": 2300, "y": 2500 },
+          { "x": 1900, "y": 1100 },
+          { "x": 2600, "y": 1100 }
+        ],
+        "mature-arabuk": [
+          { "x": 2300, "y": 2500 },
+          { "x": 1900, "y": 1100 },
+          { "x": 2600, "y": 1100 }
+        ],
+        "arabuk-yearling": [
+          { "x": 2500, "y": 2500 },
+          { "x": 2000, "y": 1000 },
+          { "x": 2500, "y": 1100 },
+          { "x": 1800, "y": 1200 },
+          { "x": 2600, "y": 1300 },
+          { "x": 2400, "y": 2700 }
+        ]
+      },
+      "scaling": [
+        {
+          "arabuk": { "amount": 1, "randomizeOrder": true },
+          "arabuk-yearling": { "amount": 2, "randomizeOrder": true },
+          "predicate": { "cp": [8, 9], "tier": "5-8" }
+        },
+        {
+          "arabuk": { "amount": 1, "randomizeOrder": true },
+          "arabuk-yearling": { "amount": 3, "randomizeOrder": true },
+          "predicate": { "cp": [10, 11], "tier": "5-8" }
+        },
+        {
+          "arabuk": { "amount": 2, "randomizeOrder": true },
+          "arabuk-yearling": { "amount": 2, "randomizeOrder": true },
+          "predicate": { "cp": [12, 13], "tier": "5-8" }
+        },
+        {
+          "arabuk": { "amount": 2, "randomizeOrder": true },
+          "arabuk-yearling": { "amount": 3, "randomizeOrder": true },
+          "predicate": { "cp": [14, 15], "tier": "5-8" }
+        },
+        {
+          "arabuk": { "amount": 3 },
+          "arabuk-yearling": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6], "tier": "5-8" }
+        },
+        {
+          "mature-arabuk": { "amount": 1, "randomizeOrder": true },
+          "arabuk-yearling": { "amount": 4, "randomizeOrder": true },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4], "tier": "5-8" }
+        },
+        {
+          "mature-arabuk": { "amount": 1, "randomizeOrder": true },
+          "arabuk-yearling": { "amount": 4, "randomizeOrder": true, "adjustAll": { "max": 20 } },
+          "predicate": { "cp": [19, 20, 21, 22], "tier": "5-8" }
+        },
+        {
+          "mature-arabuk": { "amount": 2, "randomizeOrder": true },
+          "arabuk-yearling": { "amount": 4, "randomizeOrder": true },
+          "predicate": { "cp": [23, 24, 25, 26, 27], "tier": "5-8" }
+        },
+        {
+          "mature-arabuk": { "amount": 2, "randomizeOrder": true },
+          "arabuk-yearling": { "amount": 4, "randomizeOrder": true, "adjustAll": { "max": 20 } },
+          "predicate": { "cp": [28, 29, 30, 31, 32], "tier": "5-8" }
+        },
+        {
+          "mature-arabuk": { "amount": 3, "randomizeOrder": true },
+          "arabuk-yearling": { "amount": 4, "randomizeOrder": true },
+          "predicate": { "cp": [33, 34, 35], "tier": "5-8" }
+        }
+      ]
+    },
+    {
+      "name": "G - Rift Watchers",
+      "scene": "FWGOL83HrUpCp839",
+      "actors": {
+        "changeling-exile": "5kj4VY6cP24eCBGB",
+        "eagle": "wnaKpYL7uDIJIbyx",
+        "velociraptor": "z6yJpWChr6RWqxDx",
+        "elite-green-hag-pfs-3-99": "uCxL8BQhI5yCsPyz",
+        "changeling-exile-1": "eWnUDfumWpaXBAnl"
+      },
+      "pcStart": { "x": 700, "y": 1100 },
+      "tokenSet": {
+        "changeling-exile": [{ "x": 2300, "y": 2700 }],
+        "eagle": [{ "x": 2200, "y": 2800 }],
+        "velociraptor": [
+          { "x": 2400, "y": 2700 },
+          { "x": 2300, "y": 2900 }
+        ],
+        "elite-green-hag-pfs-3-99": [{ "x": 2300, "y": 2700 }],
+        "changeling-exile-1": [
+          { "x": 2400, "y": 2600 },
+          { "x": 2200, "y": 2700 }
+        ]
+      },
+      "scaling": [
+        {
+          "changeling-exile": { "amount": 1 },
+          "predicate": { "cp": [8, 9] }
+        },
+        {
+          "changeling-exile": { "amount": 1 },
+          "eagle": { "amount": 1 },
+          "predicate": { "cp": [10, 11] }
+        },
+        {
+          "changeling-exile": { "amount": 1 },
+          "velociraptor": { "amount": 1 },
+          "predicate": { "cp": [12, 13] }
+        },
+        {
+          "changeling-exile": { "amount": 1 },
+          "eagle": { "amount": 1 },
+          "velociraptor": { "amount": 1 },
+          "predicate": { "cp": [14, 15] }
+        },
+        {
+          "changeling-exile": { "amount": 1 },
+          "velociraptor": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6] }
+        },
+        {
+          "elite-green-hag-pfs-3-99": { "amount": 1 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4] }
+        },
+        {
+          "elite-green-hag-pfs-3-99": { "amount": 1, "adjustAll": { "max": 15 } },
+          "predicate": { "cp": [19, 20, 21, 22] }
+        },
+        {
+          "elite-green-hag-pfs-3-99": { "amount": 1 },
+          "changeling-exile-1": { "amount": 1 },
+          "predicate": { "cp": [23, 24, 25, 26, 27] }
+        },
+        {
+          "elite-green-hag-pfs-3-99": { "amount": 1, "adjustAll": { "max": 15 } },
+          "changeling-exile-1": { "amount": 1 },
+          "predicate": { "cp": [28, 29, 30, 31, 32] }
+        },
+        {
+          "elite-green-hag-pfs-3-99": { "amount": 1 },
+          "changeling-exile-1": { "amount": 2 },
+          "predicate": { "cp": [33, 34, 35] }
+        }
+      ]
+    },
+    {
+      "name": "G - Vermin",
+      "scene": "vWUUuMmlb9oLarhA",
+      "actors": { "bergworm": "HkY1lLHUmnAerkUk", "bergworm-tyrant": "Q5VVu1IVvr8UkZv0" },
+      "pcStart": { "x": 2000, "y": 2400 },
+      "tokenSet": {
+        "bergworm": [
+          { "x": 1100, "y": 2300 },
+          { "x": 1900, "y": 1000 },
+          { "x": 2300, "y": 1200 },
+          { "x": 900, "y": 2100 },
+          { "x": 1700, "y": 1300 },
+          { "x": 2200, "y": 1400 }
+        ],
+        "bergworm-tyrant": [
+          { "x": 1100, "y": 2300 },
+          { "x": 1900, "y": 1000 },
+          { "x": 2300, "y": 1200 },
+          { "x": 900, "y": 2100 },
+          { "x": 1700, "y": 1300 },
+          { "x": 2200, "y": 1400 }
+        ]
+      },
+      "scaling": [
+        {
+          "bergworm": { "amount": 3 },
+          "predicate": { "cp": [8, 9, 10, 11] }
+        },
+        {
+          "bergworm": { "amount": 4 },
+          "predicate": { "cp": [12, 13] }
+        },
+        {
+          "bergworm": { "amount": 5 },
+          "predicate": { "cp": [14, 15] }
+        },
+        {
+          "bergworm": { "amount": 6 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6] }
+        },
+        {
+          "bergworm-tyrant": { "amount": 3 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4] }
+        },
+        {
+          "bergworm-tyrant": { "amount": 3 },
+          "predicate": { "cp": [19, 20, 21, 22] }
+        },
+        {
+          "bergworm-tyrant": { "amount": 4 },
+          "predicate": { "cp": [23, 24, 25, 26, 27] }
+        },
+        {
+          "bergworm-tyrant": { "amount": 5 },
+          "predicate": { "cp": [28, 29, 30, 31, 32] }
+        },
+        {
+          "bergworm-tyrant": { "amount": 6 },
+          "predicate": { "cp": [33, 34, 35] }
+        }
+      ]
+    },
+    {
+      "name": "H - Future Foes pcs",
+      "scene": "DdImlnU0n2VQRS6D",
+      "actors": {},
+      "pcStart": { "x": 800, "y": 500 },
+      "tokenSet": {},
+      "scaling": [{ "predicate": {} }]
+    },
+    {
+      "name": "H - Future Foes (1-4)",
+      "scene": "DdImlnU0n2VQRS6D",
+      "actors": {
+        "eternal-hall-1-2": "ulu9DaNnm3jpZDtF",
+        "eternal-hall-3-4": "vTqGhwqEP1vR6Tll",
+        "displaced-robot-1-2": "q8pmzLOvfpOjYVdh",
+        "displaced-robot-3-4": "qSefRhpunsfsexVB"
+      },
+      "tokenSet": {
+        "eternal-hall-1-2": [{ "x": 400, "y": 700 }],
+        "eternal-hall-3-4": [{ "x": 400, "y": 700 }],
+        "displaced-robot-1-2": [
+          { "x": 1300, "y": 700 },
+          { "x": 1300, "y": 900 },
+          { "x": 1300, "y": 500 },
+          { "x": 1300, "y": 1100 }
+        ],
+        "displaced-robot-3-4": [
+          { "x": 1300, "y": 700 },
+          { "x": 1300, "y": 900 },
+          { "x": 1300, "y": 500 },
+          { "x": 1300, "y": 1100 }
+        ]
+      },
+      "scaling": [
+        {
+          "eternal-hall-1-2": { "amount": 1 },
+          "displaced-robot-1-2": { "amount": 2 },
+          "predicate": { "cp": [8, 9, 10, 11], "tier": "1-4" }
+        },
+        {
+          "eternal-hall-1-2": { "amount": 1 },
+          "displaced-robot-1-2": { "amount": 3 },
+          "predicate": { "cp": [12, 13, 14, 15], "tier": "1-4" }
+        },
+        {
+          "eternal-hall-1-2": { "amount": 1 },
+          "displaced-robot-1-2": { "amount": 4 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6], "tier": "1-4" }
+        },
+        {
+          "eternal-hall-3-4": { "amount": 1 },
+          "displaced-robot-3-4": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4], "tier": "1-4" }
+        },
+        {
+          "eternal-hall-3-4": { "amount": 1 },
+          "displaced-robot-3-4": { "amount": 2 },
+          "predicate": { "cp": [19, 20, 21, 22], "tier": "1-4" }
+        },
+        {
+          "eternal-hall-3-4": { "amount": 1 },
+          "displaced-robot-3-4": { "amount": 3 },
+          "predicate": { "cp": [23, 24, 25, 26, 27, 28, 29, 30, 31, 32], "tier": "1-4" }
+        },
+        {
+          "eternal-hall-3-4": { "amount": 1 },
+          "displaced-robot-3-4": { "amount": 4 },
+          "predicate": { "cp": [33, 34, 35], "tier": "1-4" }
+        }
+      ]
+    },
+    {
+      "name": "H - Future Foes (5-8)",
+      "scene": "DdImlnU0n2VQRS6D",
+      "actors": {
+        "eternal-hall-5-6": "QUMUBsnPMukb9Zr3",
+        "eternal-hall-7-8": "Cz5jtr4yGDsslKhc",
+        "displaced-robot-5-6": "y0nEVC3Db55XgL6J",
+        "displaced-robot-7-8": "YOezWVKarYoszQmR"
+      },
+      "tokenSet": {
+        "eternal-hall-5-6": [{ "x": 400, "y": 700 }],
+        "eternal-hall-7-8": [{ "x": 400, "y": 700 }],
+        "displaced-robot-5-6": [
+          { "x": 1300, "y": 700 },
+          { "x": 1300, "y": 900 },
+          { "x": 1300, "y": 1100 },
+          { "x": 1300, "y": 500 }
+        ],
+        "displaced-robot-7-8": [
+          { "x": 1300, "y": 700 },
+          { "x": 1300, "y": 900 },
+          { "x": 1300, "y": 1100 },
+          { "x": 1300, "y": 500 }
+        ]
+      },
+      "scaling": [
+        {
+          "eternal-hall-5-6": { "amount": 1 },
+          "displaced-robot-5-6": { "amount": 2 },
+          "predicate": { "cp": [8, 9, 10, 11], "tier": "5-8" }
+        },
+        {
+          "eternal-hall-5-6": { "amount": 1 },
+          "displaced-robot-5-6": { "amount": 3 },
+          "predicate": { "cp": [12, 13, 14, 15], "tier": "5-8" }
+        },
+        {
+          "eternal-hall-5-6": { "amount": 1 },
+          "displaced-robot-5-6": { "amount": 4 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6], "tier": "5-8" }
+        },
+        {
+          "eternal-hall-7-8": { "amount": 1 },
+          "displaced-robot-7-8": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4], "tier": "5-8" }
+        },
+        {
+          "eternal-hall-7-8": { "amount": 1 },
+          "displaced-robot-7-8": { "amount": 2 },
+          "predicate": { "cp": [19, 20, 21, 22], "tier": "5-8" }
+        },
+        {
+          "eternal-hall-7-8": { "amount": 1 },
+          "displaced-robot-7-8": { "amount": 3 },
+          "predicate": { "cp": [23, 24, 25, 26, 27, 28, 29, 30, 31, 32], "tier": "5-8" }
+        },
+        {
+          "eternal-hall-7-8": { "amount": 1 },
+          "displaced-robot-7-8": { "amount": 4 },
+          "predicate": { "cp": [33, 34, 35], "tier": "5-8" }
+        }
+      ]
+    },
+    {
+      "name": "I - Dreambound",
+      "scene": "9ThA4cbDyUhUJrhg",
+      "actors": {
+        "fipp-the-prophet": "i0Tt4nMaUY7zUDoH",
+        "cog-the-torchbearer": "V1wSKWOe3u8iojqW",
+        "young-arabuk": "y3zDxT2KBu4YpXa8",
+        "cog-the-ruffian": "zgC2byN0XhK1Smj1"
+      },
+      "pcStart": { "x": 2300, "y": 1100 },
+      "tokenSet": {
+        "fipp-the-prophet": [{ "x": 1200, "y": 2300 }],
+        "cog-the-torchbearer": [{ "x": 900, "y": 2000 }],
+        "young-arabuk": [
+          { "x": 1700, "y": 2300 },
+          { "x": 1800, "y": 2300 },
+          { "x": 1600, "y": 2300 },
+          { "x": 1900, "y": 2400 },
+          { "x": 1900, "y": 2300 }
+        ],
+        "cog-the-ruffian": [{ "x": 900, "y": 2000 }]
+      },
+      "scaling": [
+        {
+          "fipp-the-prophet": { "amount": 1 },
+          "cog-the-torchbearer": { "amount": 1 },
+          "predicate": { "cp": [8, 9, 10, 11] }
+        },
+        {
+          "fipp-the-prophet": { "amount": 1 },
+          "cog-the-torchbearer": { "amount": 1 },
+          "young-arabuk": { "amount": 1 },
+          "predicate": { "cp": [12, 13, 14, 15] }
+        },
+        {
+          "fipp-the-prophet": { "amount": 1 },
+          "cog-the-torchbearer": { "amount": 1 },
+          "young-arabuk": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6] }
+        },
+        {
+          "fipp-the-prophet": { "amount": 1 },
+          "young-arabuk": { "amount": 1 },
+          "cog-the-ruffian": { "amount": 1 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4] }
+        },
+        {
+          "fipp-the-prophet": { "amount": 1 },
+          "young-arabuk": { "amount": 2 },
+          "cog-the-ruffian": { "amount": 1 },
+          "predicate": { "cp": [19, 20, 21, 22] }
+        },
+        {
+          "fipp-the-prophet": { "amount": 1 },
+          "young-arabuk": { "amount": 3 },
+          "cog-the-ruffian": { "amount": 1 },
+          "predicate": { "cp": [23, 24, 25, 26, 27] }
+        },
+        {
+          "fipp-the-prophet": { "amount": 1 },
+          "young-arabuk": { "amount": 4 },
+          "cog-the-ruffian": { "amount": 1 },
+          "predicate": { "cp": [28, 29, 30, 31, 32] }
+        },
+        {
+          "fipp-the-prophet": { "amount": 1 },
+          "young-arabuk": { "amount": 5 },
+          "cog-the-ruffian": { "amount": 1 },
+          "predicate": { "cp": [33, 34, 35] }
+        }
+      ]
+    },
+    {
+      "name": "I - Shobhad Investigators",
+      "scene": "1vUgAiO251nyJQof",
+      "actors": { "shobhad-hunter-5-6": "rES0tO9NJ1JAlRrs", "shobhad-hunter-7-8": "mVOC6gwaSyAFOPY0" },
+      "pcStart": { "x": 900, "y": 3100 },
+      "tokenSet": {
+        "shobhad-hunter-5-6": [
+          { "x": 1500, "y": 1400 },
+          { "x": 1900, "y": 1300 },
+          { "x": 1700, "y": 1100 },
+          { "x": 1400, "y": 1200 },
+          { "x": 2100, "y": 1200 }
+        ],
+        "shobhad-hunter-7-8": [
+          { "x": 1500, "y": 1400 },
+          { "x": 1900, "y": 1300 },
+          { "x": 1700, "y": 1100 },
+          { "x": 1400, "y": 1200 },
+          { "x": 2100, "y": 1200 }
+        ]
+      },
+      "scaling": [
+        {
+          "shobhad-hunter-5-6": { "amount": 3 },
+          "predicate": { "cp": [8, 9] }
+        },
+        {
+          "shobhad-hunter-5-6": { "amount": 3, "adjustAll": { "max": 15 } },
+          "predicate": { "cp": [10, 11] }
+        },
+        {
+          "shobhad-hunter-5-6": { "amount": 4 },
+          "predicate": { "cp": [12, 13] }
+        },
+        {
+          "shobhad-hunter-5-6": { "amount": 4, "adjustAll": { "max": 15 } },
+          "predicate": { "cp": [14, 15] }
+        },
+        {
+          "shobhad-hunter-5-6": { "amount": 5 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6] }
+        },
+        {
+          "shobhad-hunter-7-8": { "amount": 3 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4] }
+        },
+        {
+          "shobhad-hunter-7-8": { "amount": 3, "adjustAll": { "max": 20 } },
+          "predicate": { "cp": [19, 20, 21, 22] }
+        },
+        {
+          "shobhad-hunter-7-8": { "amount": 4 },
+          "predicate": { "cp": [23, 24, 25, 26, 27] }
+        },
+        {
+          "shobhad-hunter-7-8": { "amount": 4, "adjustAll": { "max": 20 } },
+          "predicate": { "cp": [28, 29, 30, 31, 32] }
+        },
+        {
+          "shobhad-hunter-7-8": { "amount": 5 },
+          "predicate": { "cp": [33, 34, 35] }
+        }
+      ]
+    },
+    {
+      "name": "Part 3 - Eternity Arch",
+      "scene": "UzFdVEGVGpTrPQnU",
+      "actors": {
+        "heraxia": "jeNkdfWNWwiTphrL",
+        "venture-captain-calisro-bennary": "wlLhGv6zI5rIkZpH",
+        "venture-captain-eando-kline": "IskPX7LRdMjF5oVb",
+        "asahar": "nMj0W2bwzubd2adk",
+        "venture-captain-armeline-jirneau": "lm4sYimB8SXlxNkY",
+        "head-initiate-janira-gavix": "irlIcKPzXw1ltq0d"
+      },
+      "pcStart": { "x": 1800, "y": 1300 },
+      "tokenSet": {
+        "heraxia": [{ "x": 2300, "y": 1600 }],
+        "venture-captain-calisro-bennary": [{ "x": 2400, "y": 1800 }],
+        "venture-captain-eando-kline": [{ "x": 2200, "y": 1900 }],
+        "asahar": [{ "x": 2600, "y": 2500 }],
+        "venture-captain-armeline-jirneau": [{ "x": 1900, "y": 2600 }],
+        "head-initiate-janira-gavix": [{ "x": 1200, "y": 3100 }]
+      },
+      "scaling": [
+        {
+          "heraxia": { "amount": 1 },
+          "venture-captain-calisro-bennary": { "amount": 1 },
+          "venture-captain-eando-kline": { "amount": 1 },
+          "asahar": { "amount": 1 },
+          "venture-captain-armeline-jirneau": { "amount": 1 },
+          "head-initiate-janira-gavix": { "amount": 1 },
+          "predicate": {}
+        }
+      ]
+    },
+    {
+      "name": "Part 4 - Eternity Arch (Missions 1-2) (N)PCs",
+      "scene": "I4gRgKGgBfIW1KhG",
+      "actors": {
+        "venture-captain-armeline-jirneau": "lm4sYimB8SXlxNkY",
+        "asahar": "nMj0W2bwzubd2adk",
+        "venture-captain-calisro-bennary": "wlLhGv6zI5rIkZpH",
+        "venture-captain-eando-kline": "IskPX7LRdMjF5oVb",
+        "head-initiate-janira-gavix": "irlIcKPzXw1ltq0d",
+        "heraxia": "jeNkdfWNWwiTphrL"
+      },
+      "pcStart": { "x": 1800, "y": 1900 },
+      "tokenSet": {
+        "venture-captain-armeline-jirneau": [{ "x": 1900, "y": 2800 }],
+        "asahar": [{ "x": 2000, "y": 2900 }],
+        "venture-captain-calisro-bennary": [{ "x": 1900, "y": 2900 }],
+        "venture-captain-eando-kline": [{ "x": 1800, "y": 2900 }],
+        "head-initiate-janira-gavix": [{ "x": 1200, "y": 2800 }],
+        "heraxia": [{ "x": 1900, "y": 3700 }]
+      },
+      "scaling": [
+        {
+          "venture-captain-armeline-jirneau": { "amount": 1 },
+          "asahar": { "amount": 1 },
+          "venture-captain-calisro-bennary": { "amount": 1 },
+          "venture-captain-eando-kline": { "amount": 1 },
+          "head-initiate-janira-gavix": { "amount": 1 },
+          "heraxia": { "amount": 1 },
+          "predicate": {}
+        }
+      ]
+    },
+    {
+      "name": "Part 4 - Eternity Arch (Missions 1-2)",
+      "scene": "I4gRgKGgBfIW1KhG",
+      "actors": { "temporal-echoes-1-2": "3vQT0vtHsQg0RfXU", "temporal-echoes-3-4": "QnQu9TQNs0ilQdbh" },
+      "tokenSet": {
+        "temporal-echoes-1-2": [
+          { "x": 1300, "y": 1800 },
+          { "x": 2600, "y": 1800 },
+          { "x": 2600, "y": 1600 },
+          { "x": 1300, "y": 1600 }
+        ],
+        "temporal-echoes-3-4": [
+          { "x": 1300, "y": 1800 },
+          { "x": 2600, "y": 1800 },
+          { "x": 2600, "y": 1600 },
+          { "x": 1300, "y": 1600 }
+        ]
+      },
+      "scaling": [
+        {
+          "temporal-echoes-1-2": { "amount": 2 },
+          "predicate": { "cp": [8, 9, 10, 11], "tier": "1-4" }
+        },
+        {
+          "temporal-echoes-1-2": { "amount": 3 },
+          "predicate": { "cp": [12, 13, 14, 15], "tier": "1-4" }
+        },
+        {
+          "temporal-echoes-1-2": { "amount": 4 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6], "tier": "1-4" }
+        },
+        {
+          "temporal-echoes-3-4": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4], "tier": "1-4" }
+        },
+        {
+          "temporal-echoes-3-4": { "amount": 2 },
+          "predicate": { "cp": [19, 20, 21, 22], "tier": "1-4" }
+        },
+        {
+          "temporal-echoes-3-4": { "amount": 3 },
+          "predicate": { "cp": [23, 24, 25, 26, 27, 28, 29, 30, 31, 32], "tier": "1-4" }
+        },
+        {
+          "temporal-echoes-3-4": { "amount": 4 },
+          "predicate": { "cp": [33, 34, 35], "tier": "1-4" }
+        }
+      ]
+    },
+    {
+      "name": "Part 4 - Eternity Arch (Missions 1-2)",
+      "scene": "I4gRgKGgBfIW1KhG",
+      "actors": { "temporal-echoes-5-6": "Q3UwLHcvKJ69wT3X", "temporal-echoes-7-8": "2FejNdxHzbuCl6qx" },
+      "tokenSet": {
+        "temporal-echoes-5-6": [
+          { "x": 1300, "y": 1800 },
+          { "x": 2600, "y": 1800 },
+          { "x": 2600, "y": 1600 },
+          { "x": 1300, "y": 1600 }
+        ],
+        "temporal-echoes-7-8": [
+          { "x": 1300, "y": 1800 },
+          { "x": 2600, "y": 1800 },
+          { "x": 2600, "y": 1600 },
+          { "x": 1300, "y": 1600 }
+        ]
+      },
+      "scaling": [
+        {
+          "temporal-echoes-5-6": { "amount": 2 },
+          "predicate": { "cp": [8, 9, 10, 11], "tier": "5-8" }
+        },
+        {
+          "temporal-echoes-5-6": { "amount": 3 },
+          "predicate": { "cp": [12, 13, 14, 15], "tier": "5-8" }
+        },
+        {
+          "temporal-echoes-5-6": { "amount": 4 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6], "tier": "5-8" }
+        },
+        {
+          "temporal-echoes-7-8": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4], "tier": "5-8" }
+        },
+        {
+          "temporal-echoes-7-8": { "amount": 2 },
+          "predicate": { "cp": [19, 20, 21, 22], "tier": "5-8" }
+        },
+        {
+          "temporal-echoes-7-8": { "amount": 3 },
+          "predicate": { "cp": [23, 24, 25, 26, 27, 28, 29, 30, 31, 32], "tier": "5-8" }
+        },
+        {
+          "temporal-echoes-7-8": { "amount": 4 },
+          "predicate": { "cp": [33, 34, 35], "tier": "5-8" }
+        }
+      ]
+    },
+    {
+      "name": "Part 4 - Eternity Arch (Missions 3-4)",
+      "scene": "FOqWbNjcwRMtHTNN",
+      "actors": {
+        "venture-captain-armeline-jirneau": "lm4sYimB8SXlxNkY",
+        "venture-captain-calisro-bennary": "wlLhGv6zI5rIkZpH",
+        "asahar": "nMj0W2bwzubd2adk",
+        "venture-captain-eando-kline": "IskPX7LRdMjF5oVb",
+        "head-initiate-janira-gavix": "irlIcKPzXw1ltq0d",
+        "heraxia": "jeNkdfWNWwiTphrL"
+      },
+      "pcStart": { "x": 1800, "y": 2100 },
+      "tokenSet": {
+        "venture-captain-armeline-jirneau": [{ "x": 1900, "y": 2800 }],
+        "venture-captain-calisro-bennary": [{ "x": 1900, "y": 2900 }],
+        "asahar": [{ "x": 2000, "y": 2900 }],
+        "venture-captain-eando-kline": [{ "x": 1800, "y": 2900 }],
+        "head-initiate-janira-gavix": [{ "x": 1200, "y": 2800 }],
+        "heraxia": [{ "x": 1900, "y": 3700 }]
+      },
+      "scaling": [
+        {
+          "venture-captain-armeline-jirneau": { "amount": 1 },
+          "venture-captain-calisro-bennary": { "amount": 1 },
+          "asahar": { "amount": 1 },
+          "venture-captain-eando-kline": { "amount": 1 },
+          "head-initiate-janira-gavix": { "amount": 1 },
+          "heraxia": { "amount": 1 },
+          "predicate": {}
+        }
+      ]
+    },
+    {
+      "name": "Part 4 - Eternity Arch (Missions 3-4)",
+      "scene": "FOqWbNjcwRMtHTNN",
+      "actors": {
+        "giant-whiptail-centipede": "Mv7ne0UfRuIsRaW2",
+        "ogre-spider": "Q1fwF0NlylGfYryz",
+        "giant-centipede": "ekFG8N6zdMJg1vK5",
+        "hunting-spider": "1XyWiADtnvvQK9FE"
+      },
+      "tokenSet": {
+        "giant-whiptail-centipede": [{ "x": 1800, "y": 1300 }],
+        "ogre-spider": [{ "x": 1800, "y": 1300 }],
+        "giant-centipede": [
+          { "x": 1700, "y": 1600 },
+          { "x": 1900, "y": 1700 },
+          { "x": 1500, "y": 1500 },
+          { "x": 2000, "y": 1600 },
+          { "x": 2200, "y": 1600 },
+          { "x": 2200, "y": 1500 },
+          { "x": 1800, "y": 1600 },
+          { "x": 1600, "y": 1500 },
+          { "x": 1900, "y": 1600 },
+          { "x": 2000, "y": 1700 },
+          { "x": 2100, "y": 1600 },
+          { "x": 2200, "y": 1400 },
+          { "x": 2300, "y": 1500 },
+          { "x": 2300, "y": 1400 },
+          { "x": 1600, "y": 1400 },
+          { "x": 1500, "y": 1400 }
+        ],
+        "hunting-spider": [
+          { "x": 1700, "y": 1600 },
+          { "x": 1900, "y": 1700 },
+          { "x": 1500, "y": 1500 },
+          { "x": 2000, "y": 1600 },
+          { "x": 2200, "y": 1600 },
+          { "x": 2200, "y": 1500 },
+          { "x": 1800, "y": 1600 },
+          { "x": 1600, "y": 1500 },
+          { "x": 1900, "y": 1600 },
+          { "x": 2000, "y": 1700 },
+          { "x": 2100, "y": 1600 },
+          { "x": 2200, "y": 1400 },
+          { "x": 2300, "y": 1500 },
+          { "x": 2300, "y": 1400 },
+          { "x": 1600, "y": 1400 },
+          { "x": 1500, "y": 1400 }
+        ]
+      },
+      "scaling": [
+        {
+          "giant-whiptail-centipede": { "amount": 1 },
+          "predicate": { "cp": [8, 9], "tier": "1-4" }
+        },
+        {
+          "giant-whiptail-centipede": { "amount": 1 },
+          "giant-centipede": { "amount": 1, "randomizeOrder": true },
+          "predicate": { "cp": [10, 11], "tier": "1-4" }
+        },
+        {
+          "giant-whiptail-centipede": { "amount": 1 },
+          "giant-centipede": { "amount": 2, "randomizeOrder": true },
+          "predicate": { "cp": [12, 13], "tier": "1-4" }
+        },
+        {
+          "giant-whiptail-centipede": { "amount": 1 },
+          "giant-centipede": { "amount": 3, "randomizeOrder": true },
+          "predicate": { "cp": [14, 15], "tier": "1-4" }
+        },
+        {
+          "giant-whiptail-centipede": { "amount": 1 },
+          "giant-centipede": { "amount": 4, "randomizeOrder": true },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6], "tier": "1-4" }
+        },
+        {
+          "ogre-spider": { "amount": 1 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4], "tier": "1-4" }
+        },
+        {
+          "ogre-spider": { "amount": 1 },
+          "hunting-spider": { "amount": 1, "randomizeOrder": true },
+          "predicate": { "cp": [19, 20, 21, 22], "tier": "1-4" }
+        },
+        {
+          "ogre-spider": { "amount": 1 },
+          "hunting-spider": { "amount": 2, "randomizeOrder": true },
+          "predicate": { "cp": [23, 24, 25, 26, 27], "tier": "1-4" }
+        },
+        {
+          "ogre-spider": { "amount": 1 },
+          "hunting-spider": { "amount": 3, "randomizeOrder": true },
+          "predicate": { "cp": [28, 29, 30, 31, 32], "tier": "1-4" }
+        },
+        {
+          "ogre-spider": { "amount": 1 },
+          "hunting-spider": { "amount": 4, "randomizeOrder": true },
+          "predicate": { "cp": [33, 34, 35], "tier": "1-4" }
+        }
+      ]
+    },
+    {
+      "name": "Part 4 - Eternity Arch (Missions 3-4)",
+      "scene": "FOqWbNjcwRMtHTNN",
+      "actors": {
+        "stegosaurus": "KHotEEMWhTSIWOpA",
+        "pachycephalosaurus": "6qs9gdshcVnrFVt3",
+        "mokele-mbembe": "ktUJUB1KOVDY6l7z",
+        "elite-hadrosaurid-pfs-3-99": "VSAtjubhUATXXWnv"
+      },
+      "tokenSet": {
+        "stegosaurus": [
+          { "x": 1600, "y": 1300 },
+          { "x": 2000, "y": 1300 }
+        ],
+        "pachycephalosaurus": [
+          { "x": 1500, "y": 1600 },
+          { "x": 2300, "y": 1400 },
+          { "x": 2200, "y": 1600 },
+          { "x": 1400, "y": 1400 },
+          { "x": 2000, "y": 1600 },
+          { "x": 1700, "y": 1600 }
+        ],
+        "mokele-mbembe": [
+          { "x": 1600, "y": 1300 },
+          { "x": 2000, "y": 1300 }
+        ],
+        "elite-hadrosaurid-pfs-3-99": [
+          { "x": 1300, "y": 1500 },
+          { "x": 2300, "y": 1500 },
+          { "x": 2000, "y": 1600 },
+          { "x": 1600, "y": 1600 }
+        ]
+      },
+      "scaling": [
+        {
+          "stegosaurus": { "amount": 1, "randomizeOrder": true },
+          "predicate": { "cp": [8, 9], "tier": "5-8" }
+        },
+        {
+          "stegosaurus": { "amount": 1, "randomizeOrder": true },
+          "pachycephalosaurus": { "amount": 1, "randomizeOrder": true },
+          "predicate": { "cp": [10, 11], "tier": "5-8" }
+        },
+        {
+          "stegosaurus": { "amount": 1, "randomizeOrder": true },
+          "pachycephalosaurus": { "amount": 2, "randomizeOrder": true },
+          "predicate": { "cp": [12, 13], "tier": "5-8" }
+        },
+        {
+          "stegosaurus": { "amount": 1, "randomizeOrder": true },
+          "pachycephalosaurus": { "amount": 3, "randomizeOrder": true },
+          "predicate": { "cp": [14, 15], "tier": "5-8" }
+        },
+        {
+          "stegosaurus": { "amount": 2 },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6], "tier": "5-8" }
+        },
+        {
+          "mokele-mbembe": { "amount": 1, "randomizeOrder": true },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4], "tier": "5-8" }
+        },
+        {
+          "mokele-mbembe": { "amount": 1, "randomizeOrder": true },
+          "elite-hadrosaurid-pfs-3-99": { "amount": 1, "randomizeOrder": true },
+          "predicate": { "cp": [19, 20, 21, 22], "tier": "5-8" }
+        },
+        {
+          "mokele-mbembe": { "amount": 1, "randomizeOrder": true },
+          "elite-hadrosaurid-pfs-3-99": { "amount": 2, "randomizeOrder": true },
+          "predicate": { "cp": [23, 24, 25, 26, 27], "tier": "5-8" }
+        },
+        {
+          "mokele-mbembe": { "amount": 1, "randomizeOrder": true },
+          "elite-hadrosaurid-pfs-3-99": { "amount": 3, "randomizeOrder": true },
+          "predicate": { "cp": [28, 29, 30, 31, 32], "tier": "5-8" }
+        },
+        {
+          "mokele-mbembe": { "amount": 2 },
+          "predicate": { "cp": [33, 34, 35], "tier": "5-8" }
+        }
+      ]
+    },
+    {
+      "name": "Part 4 - Eternity Arch (Missions 5-6)",
+      "scene": "AXBWno6Jl6AD6cpx",
+      "actors": {
+        "venture-captain-armeline-jirneau": "lm4sYimB8SXlxNkY",
+        "head-initiate-janira-gavix": "irlIcKPzXw1ltq0d",
+        "venture-captain-eando-kline": "IskPX7LRdMjF5oVb",
+        "asahar": "nMj0W2bwzubd2adk",
+        "venture-captain-calisro-bennary": "wlLhGv6zI5rIkZpH",
+        "heraxia": "jeNkdfWNWwiTphrL"
+      },
+      "pcStart": { "x": 1800, "y": 1700 },
+      "tokenSet": {
+        "venture-captain-armeline-jirneau": [{ "x": 1900, "y": 2500 }],
+        "head-initiate-janira-gavix": [{ "x": 1300, "y": 2600 }],
+        "venture-captain-eando-kline": [{ "x": 1200, "y": 3100 }],
+        "asahar": [{ "x": 2600, "y": 3100 }],
+        "venture-captain-calisro-bennary": [{ "x": 1800, "y": 3700 }],
+        "heraxia": [{ "x": 1900, "y": 3700 }]
+      },
+      "scaling": [
+        {
+          "venture-captain-armeline-jirneau": { "amount": 1 },
+          "head-initiate-janira-gavix": { "amount": 1 },
+          "venture-captain-eando-kline": { "amount": 1 },
+          "asahar": { "amount": 1 },
+          "venture-captain-calisro-bennary": { "amount": 1 },
+          "heraxia": { "amount": 1 },
+          "predicate": {}
+        }
+      ]
+    },
+    {
+      "name": "Part 4 - Eternity Arch (Missions 5-6)",
+      "scene": "AXBWno6Jl6AD6cpx",
+      "actors": {
+        "pup-of-tindalos": "wIY6chQb0z5fstj8",
+        "overloading-arch-1-2": "csf6Rq85JxUvkGmX",
+        "overloading-arch-3-4": "6FjISkltFhbdOLrm"
+      },
+      "tokenSet": {
+        "pup-of-tindalos": [
+          { "x": 1300, "y": 1700 },
+          { "x": 1300, "y": 1800 },
+          { "x": 2500, "y": 1700 },
+          { "x": 2500, "y": 1800 },
+          { "x": 2600, "y": 1700 },
+          { "x": 2600, "y": 1800 },
+          { "x": 2600, "y": 1900 },
+          { "x": 2500, "y": 1900 },
+          { "x": 2500, "y": 1600 },
+          { "x": 2600, "y": 1600 },
+          { "x": 1300, "y": 1600 },
+          { "x": 1200, "y": 1600 },
+          { "x": 1200, "y": 1700 },
+          { "x": 1200, "y": 1800 },
+          { "x": 1200, "y": 1900 },
+          { "x": 1300, "y": 1900 }
+        ],
+        "overloading-arch-1-2": [{ "x": 1900, "y": 3100 }],
+        "overloading-arch-3-4": [{ "x": 1900, "y": 3100 }]
+      },
+      "scaling": [
+        {
+          "pup-of-tindalos": { "amount": 1, "randomizeOrder": true },
+          "overloading-arch-1-2": { "amount": 1 },
+          "predicate": { "cp": [8, 9], "tier": "1-4" }
+        },
+        {
+          "pup-of-tindalos": { "amount": 1, "randomizeOrder": true, "adjustAll": { "max": 10 } },
+          "overloading-arch-1-2": { "amount": 1 },
+          "predicate": { "cp": [10, 11], "tier": "1-4" }
+        },
+        {
+          "pup-of-tindalos": { "amount": 1, "randomizeOrder": true, "adjustAll": { "conditions": ["quickened"] } },
+          "overloading-arch-1-2": { "amount": 1 },
+          "predicate": { "cp": [12, 13], "tier": "1-4" }
+        },
+        {
+          "pup-of-tindalos": {
+            "amount": 1,
+            "randomizeOrder": true,
+            "adjustAll": { "max": 10, "conditions": ["quickened"] }
+          },
+          "overloading-arch-1-2": { "amount": 1 },
+          "predicate": { "cp": [14, 15], "tier": "1-4" }
+        },
+        {
+          "pup-of-tindalos": { "amount": 2, "randomizeOrder": true },
+          "overloading-arch-1-2": { "amount": 1 },
+          "predicate": { "cp": [16, 17, 18], "tier": "1-4" }
+        },
+        {
+          "pup-of-tindalos": { "amount": 2, "randomizeOrder": true, "adjustAll": { "max": 10 } },
+          "overloading-arch-3-4": { "amount": 1 },
+          "predicate": { "cp": [19, 20, 21, 22], "tier": "1-4" }
+        },
+        {
+          "pup-of-tindalos": { "amount": 3, "randomizeOrder": true },
+          "overloading-arch-3-4": { "amount": 1 },
+          "predicate": { "cp": [23, 24, 25, 26, 27], "tier": "1-4" }
+        },
+        {
+          "pup-of-tindalos": { "amount": 3, "randomizeOrder": true, "adjustAll": { "max": 10 } },
+          "overloading-arch-3-4": { "amount": 1 },
+          "predicate": { "cp": [28, 29, 30, 31, 32], "tier": "1-4" }
+        },
+        {
+          "pup-of-tindalos": { "amount": 4, "randomizeOrder": true },
+          "overloading-arch-3-4": { "amount": 1 },
+          "predicate": { "cp": [33, 34, 35], "tier": "1-4" }
+        }
+      ]
+    },
+    {
+      "name": "Part 4 - Eternity Arch (Missions 5-6)",
+      "scene": "AXBWno6Jl6AD6cpx",
+      "actors": {
+        "overloading-arch-5-6": "5UnlmyCDAzHEQGOT",
+        "overloading-arch-7-8": "4jPPhQAJ1JMIvnPX",
+        "pup-of-tindalos": "65DKYH7gVbFScyvv",
+        "hound-of-tindalos": "jJFKrzFCtBvihLCb"
+      },
+      "tokenSet": {
+        "overloading-arch-5-6": [{ "x": 1900, "y": 3100 }],
+        "overloading-arch-7-8": [{ "x": 1900, "y": 3100 }],
+        "pup-of-tindalos": [
+          { "x": 1300, "y": 1900 },
+          { "x": 1300, "y": 1800 },
+          { "x": 1300, "y": 1700 },
+          { "x": 1300, "y": 1600 },
+          { "x": 2500, "y": 1900 },
+          { "x": 2500, "y": 1800 },
+          { "x": 2500, "y": 1700 },
+          { "x": 2500, "y": 1600 }
+        ],
+        "hound-of-tindalos": [
+          { "x": 2600, "y": 1600 },
+          { "x": 2600, "y": 1700 },
+          { "x": 2600, "y": 1800 },
+          { "x": 2600, "y": 1900 },
+          { "x": 1200, "y": 1600 },
+          { "x": 1200, "y": 1800 },
+          { "x": 1200, "y": 1700 },
+          { "x": 1200, "y": 1900 }
+        ]
+      },
+      "scaling": [
+        {
+          "overloading-arch-5-6": { "amount": 1 },
+          "pup-of-tindalos": { "amount": 2, "randomizeOrder": true },
+          "hound-of-tindalos": { "amount": 1, "randomizeOrder": true },
+          "predicate": { "cp": [8, 9], "tier": "5-8" }
+        },
+        {
+          "overloading-arch-5-6": { "amount": 1 },
+          "pup-of-tindalos": { "amount": 2, "randomizeOrder": true, "adjustAll": { "max": 10 } },
+          "hound-of-tindalos": { "amount": 1, "randomizeOrder": true },
+          "predicate": { "cp": [10, 11], "tier": "5-8" }
+        },
+        {
+          "overloading-arch-5-6": { "amount": 1 },
+          "pup-of-tindalos": { "amount": 3, "randomizeOrder": true, "adjustAll": { "max": 10 } },
+          "hound-of-tindalos": { "amount": 1, "randomizeOrder": true },
+          "predicate": { "cp": [12, 13], "tier": "5-8" }
+        },
+        {
+          "overloading-arch-5-6": { "amount": 1 },
+          "pup-of-tindalos": { "amount": 2, "randomizeOrder": true },
+          "hound-of-tindalos": { "amount": 2, "randomizeOrder": true },
+          "predicate": { "cp": [14, 15], "tier": "5-8" }
+        },
+        {
+          "overloading-arch-5-6": { "amount": 1 },
+          "pup-of-tindalos": { "amount": 2, "randomizeOrder": true, "adjustAll": { "max": 10 } },
+          "hound-of-tindalos": { "amount": 2, "randomizeOrder": true },
+          "predicate": { "cp": [16, 17, 18], "pcs": [5, 6], "tier": "5-8" }
+        },
+        {
+          "overloading-arch-7-8": { "amount": 1 },
+          "hound-of-tindalos": { "amount": 3, "randomizeOrder": true },
+          "predicate": { "cp": [16, 17, 18], "pcs": [4], "tier": "5-8" }
+        },
+        {
+          "overloading-arch-7-8": { "amount": 1 },
+          "hound-of-tindalos": { "amount": 3, "randomizeOrder": true, "adjustAll": { "max": 20 } },
+          "predicate": { "cp": [19, 20, 21, 22], "tier": "5-8" }
+        },
+        {
+          "overloading-arch-7-8": { "amount": 1 },
+          "hound-of-tindalos": { "amount": 4, "randomizeOrder": true },
+          "predicate": { "cp": [23, 24, 25, 26, 27], "tier": "5-8" }
+        },
+        {
+          "overloading-arch-7-8": { "amount": 1 },
+          "hound-of-tindalos": { "amount": 5, "randomizeOrder": true },
+          "predicate": { "cp": [28, 29, 30, 31, 32], "tier": "5-8" }
+        },
+        {
+          "overloading-arch-7-8": { "amount": 1 },
+          "hound-of-tindalos": { "amount": 5, "randomizeOrder": true, "adjustAll": { "max": 20 } },
+          "predicate": { "cp": [33, 34, 35], "tier": "5-8" }
+        }
+      ]
+    },
+    {
+      "name": "Grand Lodge",
+      "scene": "UiSC0hfrQeUmYXJJ",
+      "actors": {
+        "asahar": "nMj0W2bwzubd2adk",
+        "venture-captain-urwal": "8Lw5hvS8te3v5tW0",
+        "venture-captain-armeline-jirneau": "lm4sYimB8SXlxNkY",
+        "venture-captain-calisro-bennary": "wlLhGv6zI5rIkZpH",
+        "head-initiate-janira-gavix": "irlIcKPzXw1ltq0d",
+        "venture-captain-eando-kline": "IskPX7LRdMjF5oVb"
+      },
+      "pcStart": { "x": 1600, "y": 3500 },
+      "tokenSet": {
+        "asahar": [{ "x": 2300, "y": 3600 }],
+        "venture-captain-urwal": [{ "x": 1500, "y": 3100 }],
+        "venture-captain-armeline-jirneau": [{ "x": 1900, "y": 2400 }],
+        "venture-captain-calisro-bennary": [{ "x": 1400, "y": 2400 }],
+        "head-initiate-janira-gavix": [{ "x": 1000, "y": 1800 }],
+        "venture-captain-eando-kline": [{ "x": 2500, "y": 1800 }]
+      },
+      "scaling": [
+        {
+          "asahar": { "amount": 1 },
+          "venture-captain-urwal": { "amount": 1 },
+          "venture-captain-armeline-jirneau": { "amount": 1 },
+          "venture-captain-calisro-bennary": { "amount": 1 },
+          "head-initiate-janira-gavix": { "amount": 1 },
+          "venture-captain-eando-kline": { "amount": 1 },
+          "predicate": {}
+        }
+      ]
+    },
+    {
+      "name": "Lower Ruins (Entry)",
+      "scene": "qq2xH3PVdhbtglO6",
+      "actors": {
+        "venture-captain-armeline-jirneau": "lm4sYimB8SXlxNkY",
+        "venture-captain-urwal": "8Lw5hvS8te3v5tW0",
+        "venture-captain-calisro-bennary": "wlLhGv6zI5rIkZpH",
+        "asahar": "nMj0W2bwzubd2adk",
+        "head-initiate-janira-gavix": "irlIcKPzXw1ltq0d",
+        "venture-captain-eando-kline": "IskPX7LRdMjF5oVb"
+      },
+      "pcStart": { "x": 1800, "y": 900 },
+      "tokenSet": {
+        "venture-captain-armeline-jirneau": [{ "x": 1900, "y": 2600 }],
+        "venture-captain-urwal": [{ "x": 2300, "y": 1700 }],
+        "venture-captain-calisro-bennary": [{ "x": 2100, "y": 1500 }],
+        "asahar": [{ "x": 1900, "y": 1400 }],
+        "head-initiate-janira-gavix": [{ "x": 1700, "y": 1500 }],
+        "venture-captain-eando-kline": [{ "x": 1500, "y": 1700 }]
+      },
+      "scaling": [
+        {
+          "venture-captain-armeline-jirneau": { "amount": 1 },
+          "venture-captain-urwal": { "amount": 1 },
+          "venture-captain-calisro-bennary": { "amount": 1 },
+          "asahar": { "amount": 1 },
+          "head-initiate-janira-gavix": { "amount": 1 },
+          "venture-captain-eando-kline": { "amount": 1 },
+          "predicate": {}
+        }
+      ]
+    },
+    {
+      "name": "Upper Ruins Site",
+      "scene": "I9uURiQnj3eCNNAa",
+      "actors": {
+        "venture-captain-calisro-bennary": "wlLhGv6zI5rIkZpH",
+        "venture-captain-armeline-jirneau": "lm4sYimB8SXlxNkY",
+        "asahar": "nMj0W2bwzubd2adk",
+        "head-initiate-janira-gavix": "irlIcKPzXw1ltq0d",
+        "venture-captain-urwal": "8Lw5hvS8te3v5tW0",
+        "venture-captain-eando-kline": "IskPX7LRdMjF5oVb"
+      },
+      "pcStart": { "x": 3000, "y": 2500 },
+      "tokenSet": {
+        "venture-captain-calisro-bennary": [{ "x": 3100, "y": 2100 }],
+        "venture-captain-armeline-jirneau": [{ "x": 3200, "y": 2100 }],
+        "asahar": [{ "x": 3800, "y": 2200 }],
+        "head-initiate-janira-gavix": [{ "x": 2000, "y": 2300 }],
+        "venture-captain-urwal": [{ "x": 3100, "y": 1000 }],
+        "venture-captain-eando-kline": [{ "x": 3200, "y": 1000 }]
+      },
+      "scaling": [
+        {
+          "venture-captain-calisro-bennary": { "amount": 1 },
+          "venture-captain-armeline-jirneau": { "amount": 1 },
+          "asahar": { "amount": 1 },
+          "head-initiate-janira-gavix": { "amount": 1 },
+          "venture-captain-urwal": { "amount": 1 },
+          "venture-captain-eando-kline": { "amount": 1 },
+          "predicate": {}
+        }
+      ]
+    }
+  ]
+}

@@ -29,5 +29,13 @@
       "flags": {}
     }
   ],
-  "esmodules": ["scripts/index.mjs"]
+  "esmodules": ["scripts/index.mjs"],
+  "flags": {
+    "compendiumArtMappings": {
+      "pf2e": {
+        "mapping": "modules/pfs-3-99-fate-in-the-future/image-mapping.json",
+        "credit": "<em>Portrait and token artwork by Paizo.</em>"
+      }
+    }
+  }
 }
