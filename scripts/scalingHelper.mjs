@@ -93,7 +93,6 @@ function getScalingOptionsFromSelection() {
     const cp = ((level - 1) % 4) + 2;
     return cp === 5 ? acc + 6 : acc + cp;
   }, 0);
-  console.log(levelRange);
   const tier = levelRange == 1 ? '1-4' : '5-8';
   return {
     party,
