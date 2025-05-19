@@ -30,6 +30,7 @@
     }
   ],
   "esmodules": ["scripts/index.mjs"],
+  "styles": ["styles/styles.css"],
   "flags": {
     "compendiumArtMappings": {
       "pf2e": {

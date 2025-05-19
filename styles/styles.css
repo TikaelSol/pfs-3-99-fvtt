@@ -1,0 +1,39 @@
+.journal-tier-1-2 .tier3-4 {
+  display: none;
+}
+.journal-tier-1-2 .tier5-6 {
+  display: none;
+}
+.journal-tier-1-2 .tier7-8 {
+  display: none;
+}
+
+.journal-tier-3-4 .tier1-2 {
+  display: none;
+}
+.journal-tier-3-4 .tier5-6 {
+  display: none;
+}
+.journal-tier-3-4 .tier7-8 {
+  display: none;
+}
+
+.journal-tier-5-6 .tier1-2 {
+  display: none;
+}
+.journal-tier-5-6 .tier3-4 {
+  display: none;
+}
+.journal-tier-5-6 .tier7-8 {
+  display: none;
+}
+
+.journal-tier-7-8 .tier1-2 {
+  display: none;
+}
+.journal-tier-7-8 .tier3-4 {
+  display: none;
+}
+.journal-tier-7-8 .tier5-6 {
+  display: none;
+}
