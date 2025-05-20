@@ -315,8 +315,8 @@ async function scaleScenario(scenarioData, scalingOptions) {
           }
           await token.actor.createEmbeddedDocuments('Item', items);
         }
-        if (token.flags?.['pfs-3-99-fate-in-the-future']?.max) {
-          if (/^[+-]/.test(token.flags['pfs-3-99-fate-in-the-future'].max)) {
+        if (token.flags?.['pfs-3-99-fate-in-the-future']?.hp) {
+          if (/^[+-]/.test(token.flags['pfs-3-99-fate-in-the-future'].hp)) {
             await token.actor.update(
               {
                 'system.attributes.hp.max':
@@ -326,34 +326,7 @@ async function scaleScenario(scenarioData, scalingOptions) {
               },
               { allowHPOverage: true }
             );
-          } else {
-            await token.actor.update(
-              {
-                'system.attributes.hp.max': Number(token.flags['pfs-3-99-fate-in-the-future'].max),
-                'system.attributes.hp.value': Number(token.flags['pfs-3-99-fate-in-the-future'].max),
-              },
-              { allowHPOverage: true }
-            );
           }
-        } else if (token.flags?.['pfs-3-99-fate-in-the-future']?.hp) {
-          if (/^[+-]/.test(token.flags['pfs-3-99-fate-in-the-future'].hp)) {
-            await token.actor.update({
-              'system.attributes.hp.value':
-                token.actor.system.attributes.hp.value + Number(token.flags['pfs-3-99-fate-in-the-future'].hp),
-            });
-          } else {
-            await token.actor.update({
-              'system.attributes.hp.value': Number(token.flags['pfs-3-99-fate-in-the-future'].hp),
-            });
-          }
-        }
-        if (token.flags?.['pfs-3-99-fate-in-the-future']?.elevation) {
-          await token.update({ elevation: token.flags['pfs-3-99-fate-in-the-future'].elevation });
-        }
-        if (token.flags?.['pfs-3-99-fate-in-the-future']?.toggleRollOption) {
-          const { domain, option, itemId, value, suboption } =
-            token.flags['pfs-3-99-fate-in-the-future'].toggleRollOption;
-          await token.actor.toggleRollOption(domain, option, itemId, value, suboption);
         }
       }
     }

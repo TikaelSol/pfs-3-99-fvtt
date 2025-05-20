@@ -270,16 +270,16 @@
       },
       "scaling": [
         { "cave-bear": { "amount": 1 }, "predicate": { "cp": [8, 9] } },
-        { "cave-bear": { "amount": 1, "adjustAll": { "max": 20 } }, "predicate": { "cp": [10, 11] } },
+        { "cave-bear": { "amount": 1, "adjustAll": { "hp": "+20" } }, "predicate": { "cp": [10, 11] } },
         { "cave-bear": { "amount": 1, "adjustAll": { "adjustment": "elite" } }, "predicate": { "cp": [12, 13] } },
         {
           "predicate": { "cp": [14, 15] },
           "cave-bear": { "amount": 1, "adjustAll": { "adjustment": "elite", "conditions": ["quickened"] } }
         },
         { "cave-bear": { "amount": 2 }, "predicate": { "cp": [16, 17, 18] } },
-        { "cave-bear": { "amount": 2, "adjustAll": { "max": 20 } }, "predicate": { "cp": [19, 20, 21, 22] } },
+        { "cave-bear": { "amount": 2, "adjustAll": { "hp": "+20" } }, "predicate": { "cp": [19, 20, 21, 22] } },
         { "cave-bear": { "amount": 3 }, "predicate": { "cp": [23, 24, 25, 26, 27] } },
-        { "cave-bear": { "amount": 3, "adjustAll": { "max": 20 } }, "predicate": { "cp": [28, 29, 30, 31, 32] } },
+        { "cave-bear": { "amount": 3, "adjustAll": { "hp": "+20" } }, "predicate": { "cp": [28, 29, 30, 31, 32] } },
         { "cave-bear": { "amount": 4 }, "predicate": { "cp": [33, 34, 35] } }
       ]
     },
@@ -365,7 +365,7 @@
           "predicate": { "cp": [8, 9] }
         },
         {
-          "kobold-warrior-pfs-3-99": { "amount": 3, "adjustAll": { "max": 5 } },
+          "kobold-warrior-pfs-3-99": { "amount": 3, "adjustAll": { "hp": "+5" } },
           "junk-launcher": { "amount": 2 },
           "predicate": { "cp": [10, 11] }
         },
@@ -444,7 +444,7 @@
         },
         {
           "uby": { "amount": 1 },
-          "reckless-akitonian-scientist": { "amount": 1, "adjustAll": { "max": 15 } },
+          "reckless-akitonian-scientist": { "amount": 1, "adjustAll": { "hp": "+15" } },
           "predicate": { "cp": [10, 11] }
         },
         {
@@ -454,7 +454,7 @@
         },
         {
           "uby": { "amount": 1 },
-          "reckless-akitonian-scientist": { "amount": 1, "adjustAll": { "max": 15, "conditions": ["quickened"] } },
+          "reckless-akitonian-scientist": { "amount": 1, "adjustAll": { "hp": "+15", "conditions": ["quickened"] } },
           "predicate": { "cp": [14, 15] }
         },
         {
@@ -464,7 +464,7 @@
         },
         {
           "uby": { "amount": 1 },
-          "reckless-akitonian-scientist": { "amount": 2, "adjustAll": { "max": 20 } },
+          "reckless-akitonian-scientist": { "amount": 2, "adjustAll": { "hp": "+20" } },
           "predicate": { "cp": [19, 20, 21, 22] }
         },
         {
@@ -474,7 +474,7 @@
         },
         {
           "uby": { "amount": 1 },
-          "reckless-akitonian-scientist": { "amount": 3, "adjustAll": { "max": 20 } },
+          "reckless-akitonian-scientist": { "amount": 3, "adjustAll": { "hp": "+20" } },
           "predicate": { "cp": [28, 29, 30, 31, 32] }
         },
         {
@@ -505,23 +505,23 @@
       },
       "scaling": [
         { "wolverine": { "amount": 1 }, "predicate": { "cp": [8, 9], "tier": "1-4" } },
-        { "wolverine": { "amount": 1, "adjustAll": { "max": 10 } }, "predicate": { "cp": [10, 11], "tier": "1-4" } },
+        { "wolverine": { "amount": 1, "adjustAll": { "hp": "+10" } }, "predicate": { "cp": [10, 11], "tier": "1-4" } },
         {
           "wolverine": { "amount": 1, "adjustAll": { "conditions": ["quickened"] } },
           "predicate": { "cp": [12, 13], "tier": "1-4" }
         },
         {
-          "wolverine": { "amount": 1, "adjustAll": { "max": 10, "conditions": ["quickened"] } },
+          "wolverine": { "amount": 1, "adjustAll": { "hp": "+10", "conditions": ["quickened"] } },
           "predicate": { "cp": [14, 15], "tier": "1-4" }
         },
         { "wolverine": { "amount": 2 }, "predicate": { "cp": [16, 17, 18], "tier": "1-4" } },
         {
-          "wolverine": { "amount": 2, "adjustAll": { "max": 10 } },
+          "wolverine": { "amount": 2, "adjustAll": { "hp": "+10" } },
           "predicate": { "cp": [19, 20, 21, 22], "tier": "1-4" }
         },
         { "wolverine": { "amount": 3 }, "predicate": { "cp": [23, 24, 25, 26, 27], "tier": "1-4" } },
         {
-          "wolverine": { "amount": 3, "adjustAll": { "max": 10 } },
+          "wolverine": { "amount": 3, "adjustAll": { "hp": "+10" } },
           "predicate": { "cp": [28, 29, 30, 31, 32], "tier": "1-4" }
         },
         {
@@ -550,7 +550,7 @@
           "predicate": { "cp": [8, 9], "tier": "5-8" }
         },
         {
-          "wood-golem": { "amount": 1, "adjustAll": { "max": 20 } },
+          "wood-golem": { "amount": 1, "adjustAll": { "hp": "+20" } },
           "predicate": { "cp": [10, 11], "tier": "5-8" }
         },
         {
@@ -570,7 +570,7 @@
           "predicate": { "cp": [16, 17, 18], "pcs": [4], "tier": "5-8" }
         },
         {
-          "glass-golem": { "amount": 1, "adjustAll": { "max": 20 } },
+          "glass-golem": { "amount": 1, "adjustAll": { "hp": "+20" } },
           "predicate": { "cp": [19, 20, 21, 22], "tier": "5-8" }
         },
         {
@@ -612,7 +612,7 @@
           "predicate": { "cp": [8, 9] }
         },
         {
-          "timewarped-amalgam": { "amount": 2, "adjustAll": { "max": 10 } },
+          "timewarped-amalgam": { "amount": 2, "adjustAll": { "hp": "+10" } },
           "predicate": { "cp": [10, 11] }
         },
         {
@@ -620,7 +620,7 @@
           "predicate": { "cp": [12, 13] }
         },
         {
-          "timewarped-amalgam": { "amount": 3, "adjustAll": { "max": 10 } },
+          "timewarped-amalgam": { "amount": 3, "adjustAll": { "hp": "+10" } },
           "predicate": { "cp": [14, 15] }
         },
         {
@@ -632,7 +632,7 @@
           "predicate": { "cp": [16, 17, 18], "pcs": [4] }
         },
         {
-          "grothlut": { "amount": 2, "adjustAll": { "max": 15 } },
+          "grothlut": { "amount": 2, "adjustAll": { "hp": "+15" } },
           "predicate": { "cp": [19, 20, 21, 22] }
         },
         {
@@ -640,7 +640,7 @@
           "predicate": { "cp": [23, 24, 25, 26, 27] }
         },
         {
-          "grothlut": { "amount": 3, "adjustAll": { "max": 15 } },
+          "grothlut": { "amount": 3, "adjustAll": { "hp": "+15" } },
           "predicate": { "cp": [28, 29, 30, 31, 32] }
         },
         {
@@ -669,7 +669,7 @@
           "predicate": { "cp": [8, 9] }
         },
         {
-          "quatoid": { "amount": 1, "adjustAll": { "max": 20 } },
+          "quatoid": { "amount": 1, "adjustAll": { "hp": "+20" } },
           "predicate": { "cp": [10, 11] }
         },
         {
@@ -678,8 +678,8 @@
           "predicate": { "cp": [12, 13] }
         },
         {
-          "quatoid": { "amount": 1, "adjustAll": { "max": 20 } },
-          "living-waterfall": { "amount": 1, "adjustAll": { "max": 20 } },
+          "quatoid": { "amount": 1, "adjustAll": { "hp": "+20" } },
+          "living-waterfall": { "amount": 1, "adjustAll": { "hp": "+20" } },
           "predicate": { "cp": [14, 15] }
         },
         {
@@ -687,7 +687,7 @@
           "predicate": { "cp": [16, 17, 18] }
         },
         {
-          "quatoid": { "amount": 2, "adjustAll": { "max": 20 } },
+          "quatoid": { "amount": 2, "adjustAll": { "hp": "+20" } },
           "predicate": { "cp": [19, 20, 21, 22] }
         },
         {
@@ -695,7 +695,7 @@
           "predicate": { "cp": [23, 24, 25, 26, 27] }
         },
         {
-          "quatoid": { "amount": 3, "adjustAll": { "max": 20 } },
+          "quatoid": { "amount": 3, "adjustAll": { "hp": "+20" } },
           "predicate": { "cp": [28, 29, 30, 31, 32] }
         },
         {
@@ -834,7 +834,7 @@
         },
         {
           "mature-arabuk": { "amount": 1, "randomizeOrder": true },
-          "arabuk-yearling": { "amount": 4, "randomizeOrder": true, "adjustAll": { "max": 20 } },
+          "arabuk-yearling": { "amount": 4, "randomizeOrder": true, "adjustAll": { "hp": "+20" } },
           "predicate": { "cp": [19, 20, 21, 22], "tier": "5-8" }
         },
         {
@@ -844,7 +844,7 @@
         },
         {
           "mature-arabuk": { "amount": 2, "randomizeOrder": true },
-          "arabuk-yearling": { "amount": 4, "randomizeOrder": true, "adjustAll": { "max": 20 } },
+          "arabuk-yearling": { "amount": 4, "randomizeOrder": true, "adjustAll": { "hp": "+20" } },
           "predicate": { "cp": [28, 29, 30, 31, 32], "tier": "5-8" }
         },
         {
@@ -909,7 +909,7 @@
           "predicate": { "cp": [16, 17, 18], "pcs": [4] }
         },
         {
-          "elite-green-hag-pfs-3-99": { "amount": 1, "adjustAll": { "max": 15 } },
+          "elite-green-hag-pfs-3-99": { "amount": 1, "adjustAll": { "hp": "+15" } },
           "predicate": { "cp": [19, 20, 21, 22] }
         },
         {
@@ -918,7 +918,7 @@
           "predicate": { "cp": [23, 24, 25, 26, 27] }
         },
         {
-          "elite-green-hag-pfs-3-99": { "amount": 1, "adjustAll": { "max": 15 } },
+          "elite-green-hag-pfs-3-99": { "amount": 1, "adjustAll": { "hp": "+15" } },
           "changeling-exile-1": { "amount": 1 },
           "predicate": { "cp": [28, 29, 30, 31, 32] }
         },
@@ -1224,7 +1224,7 @@
           "predicate": { "cp": [8, 9] }
         },
         {
-          "shobhad-hunter-5-6": { "amount": 3, "adjustAll": { "max": 15 } },
+          "shobhad-hunter-5-6": { "amount": 3, "adjustAll": { "hp": "+15" } },
           "predicate": { "cp": [10, 11] }
         },
         {
@@ -1232,7 +1232,7 @@
           "predicate": { "cp": [12, 13] }
         },
         {
-          "shobhad-hunter-5-6": { "amount": 4, "adjustAll": { "max": 15 } },
+          "shobhad-hunter-5-6": { "amount": 4, "adjustAll": { "hp": "+15" } },
           "predicate": { "cp": [14, 15] }
         },
         {
@@ -1244,7 +1244,7 @@
           "predicate": { "cp": [16, 17, 18], "pcs": [4] }
         },
         {
-          "shobhad-hunter-7-8": { "amount": 3, "adjustAll": { "max": 20 } },
+          "shobhad-hunter-7-8": { "amount": 3, "adjustAll": { "hp": "+20" } },
           "predicate": { "cp": [19, 20, 21, 22] }
         },
         {
@@ -1252,7 +1252,7 @@
           "predicate": { "cp": [23, 24, 25, 26, 27] }
         },
         {
-          "shobhad-hunter-7-8": { "amount": 4, "adjustAll": { "max": 20 } },
+          "shobhad-hunter-7-8": { "amount": 4, "adjustAll": { "hp": "+20" } },
           "predicate": { "cp": [28, 29, 30, 31, 32] }
         },
         {
@@ -1706,7 +1706,7 @@
           "predicate": { "cp": [8, 9], "tier": "1-4" }
         },
         {
-          "pup-of-tindalos": { "amount": 1, "randomizeOrder": true, "adjustAll": { "max": 10 } },
+          "pup-of-tindalos": { "amount": 1, "randomizeOrder": true, "adjustAll": { "hp": "+10" } },
           "overloading-arch-1-2": { "amount": 1 },
           "predicate": { "cp": [10, 11], "tier": "1-4" }
         },
@@ -1719,7 +1719,7 @@
           "pup-of-tindalos": {
             "amount": 1,
             "randomizeOrder": true,
-            "adjustAll": { "max": 10, "conditions": ["quickened"] }
+            "adjustAll": { "hp": "+10", "conditions": ["quickened"] }
           },
           "overloading-arch-1-2": { "amount": 1 },
           "predicate": { "cp": [14, 15], "tier": "1-4" }
@@ -1730,7 +1730,7 @@
           "predicate": { "cp": [16, 17, 18], "tier": "1-4" }
         },
         {
-          "pup-of-tindalos": { "amount": 2, "randomizeOrder": true, "adjustAll": { "max": 10 } },
+          "pup-of-tindalos": { "amount": 2, "randomizeOrder": true, "adjustAll": { "hp": "+10" } },
           "overloading-arch-3-4": { "amount": 1 },
           "predicate": { "cp": [19, 20, 21, 22], "tier": "1-4" }
         },
@@ -1740,7 +1740,7 @@
           "predicate": { "cp": [23, 24, 25, 26, 27], "tier": "1-4" }
         },
         {
-          "pup-of-tindalos": { "amount": 3, "randomizeOrder": true, "adjustAll": { "max": 10 } },
+          "pup-of-tindalos": { "amount": 3, "randomizeOrder": true, "adjustAll": { "hp": "+10" } },
           "overloading-arch-3-4": { "amount": 1 },
           "predicate": { "cp": [28, 29, 30, 31, 32], "tier": "1-4" }
         },
@@ -1793,13 +1793,13 @@
         },
         {
           "overloading-arch-5-6": { "amount": 1 },
-          "pup-of-tindalos": { "amount": 2, "randomizeOrder": true, "adjustAll": { "max": 10 } },
+          "pup-of-tindalos": { "amount": 2, "randomizeOrder": true, "adjustAll": { "hp": "+10" } },
           "hound-of-tindalos": { "amount": 1, "randomizeOrder": true },
           "predicate": { "cp": [10, 11], "tier": "5-8" }
         },
         {
           "overloading-arch-5-6": { "amount": 1 },
-          "pup-of-tindalos": { "amount": 3, "randomizeOrder": true, "adjustAll": { "max": 10 } },
+          "pup-of-tindalos": { "amount": 3, "randomizeOrder": true, "adjustAll": { "hp": "+10" } },
           "hound-of-tindalos": { "amount": 1, "randomizeOrder": true },
           "predicate": { "cp": [12, 13], "tier": "5-8" }
         },
@@ -1811,7 +1811,7 @@
         },
         {
           "overloading-arch-5-6": { "amount": 1 },
-          "pup-of-tindalos": { "amount": 2, "randomizeOrder": true, "adjustAll": { "max": 10 } },
+          "pup-of-tindalos": { "amount": 2, "randomizeOrder": true, "adjustAll": { "hp": "+10" } },
           "hound-of-tindalos": { "amount": 2, "randomizeOrder": true },
           "predicate": { "cp": [16, 17, 18], "pcs": [5, 6], "tier": "5-8" }
         },
@@ -1822,7 +1822,7 @@
         },
         {
           "overloading-arch-7-8": { "amount": 1 },
-          "hound-of-tindalos": { "amount": 3, "randomizeOrder": true, "adjustAll": { "max": 20 } },
+          "hound-of-tindalos": { "amount": 3, "randomizeOrder": true, "adjustAll": { "hp": "+20" } },
           "predicate": { "cp": [19, 20, 21, 22], "tier": "5-8" }
         },
         {
@@ -1837,7 +1837,7 @@
         },
         {
           "overloading-arch-7-8": { "amount": 1 },
-          "hound-of-tindalos": { "amount": 5, "randomizeOrder": true, "adjustAll": { "max": 20 } },
+          "hound-of-tindalos": { "amount": 5, "randomizeOrder": true, "adjustAll": { "hp": "+20" } },
           "predicate": { "cp": [33, 34, 35], "tier": "5-8" }
         }
       ]
